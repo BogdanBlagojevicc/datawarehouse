@@ -1,0 +1,706 @@
+Id,Book Number,Booked By,Guest Name,Start Date,End Date,Booked On,Status,Rooms,Number Of People,Number Of Adults,Number Of Children,Children's Age,Price_EUR,Commission Percentage,Commission Amount,Payment Status,Payment Method,Accommodation,Grade,Advertiser,Contact,Staff,Facilities,Cleanliness,Comfort,Value For Money,Location,Free WiFi,Accommodation Type,Number Of Nights,Price_DOLLAR,Bed
+0,2245705225.0,Veeravalli Gopi,Gopi Veeravalli,03.04.2019,06.04.2019,30.03.2019,Confirmed,1.0,2,2.0,0.0,,95.94,18.0,21.06,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+1,2071623069.0,Kretov Nikita,Nikita Kretov,06.04.2019,11.04.2019,01.03.2019,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+2,3037388122.0,Yuheng Huang,Yuheng Huang,07.04.2019,08.04.2019,31.03.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+3,3181654986.0,Li Fengju,Fengju Li,10.04.2019,11.04.2019,02.04.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+4,3642008503.0,Li Fengju,,11.04.2019,12.04.2019,02.04.2019,Confirmed,1.0,2,2.0,0.0,,32.8,18.0,7.2,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+5,1340816025.0,Le Masson Frederic,Frederic Le Masson,12.04.2019,13.04.2019,13.03.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+6,2768936047.0,Prasad Alok,Alok Prasad,12.04.2019,14.04.2019,28.03.2019,Confirmed,1.0,2,2.0,0.0,,82.0,18.0,18.0,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+7,2411639899.0,Foreman Brad,Brad Foreman,15.04.2019,20.04.2019,01.04.2019,Confirmed,1.0,2,2.0,0.0,,205.0,18.0,45.0,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+8,3817014242.0,Sainio Mika,Mika Sainio,16.04.2019,19.04.2019,20.03.2019,Confirmed,1.0,4,2.0,2.0,5; 7,147.6,18.0,32.4,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+9,2297200138.0,Kong Fanhua,Fanhua Kong,16.04.2019,18.04.2019,08.04.2019,Confirmed,1.0,2,2.0,0.0,,65.6,18.0,14.4,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+10,3215808386.0,Van Beveren Nanou,Nanou Van Beveren,18.04.2019,20.04.2019,25.03.2019,Confirmed,1.0,2,2.0,0.0,,65.6,18.0,14.4,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+11,2452480953.0,Huneau Mickaël,Mickaël Huneau,20.04.2019,22.04.2019,12.04.2019,Confirmed,1.0,2,2.0,0.0,,65.6,18.0,14.4,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+12,1083398481.0,Burton Michele,Michele Burton,22.04.2019,27.04.2019,30.11.2018,Confirmed,1.0,2,2.0,0.0,,205.0,18.0,45.0,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+13,2409472027.0,Kulska Joanna,Joanna Kulska,22.04.2019,25.04.2019,31.03.2019,Confirmed,1.0,2,2.0,0.0,,98.4,18.0,21.6,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+14,3797587768.0,Atodiresei Oana,Oana Atodiresei,22.04.2019,23.04.2019,22.04.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+15,1089621040.0,Boustead James,James Boustead,23.04.2019,27.04.2019,30.12.2018,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+16,2449237016.0,Robertson Laura,Laura Robertson,26.04.2019,27.04.2019,26.04.2019,Confirmed,1.0,2,2.0,0.0,,32.8,18.0,7.2,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+17,2684309061.0,Pinedo Guardamino Iñigo,Iñigo Pinedo Guardamino,27.04.2019,28.04.2019,21.03.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+18,2326808704.0,Turquety Myriam,Myriam Turquety,28.04.2019,29.04.2019,22.04.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,Paid online,Card,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+19,1627727072.0,Zivic Mrdan,Mrdan Zivic,29.04.2019,01.05.2019,17.03.2019,Confirmed,1.0,2,2.0,0.0,,65.6,18.0,14.4,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+20,3493631099.0,Mutwicka Agnieszka,Agnieszka Mutwicka,29.04.2019,30.04.2019,29.04.2019,Confirmed,1.0,3,3.0,0.0,,49.2,18.0,10.8,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+21,1067175879.0,Heinonen Arja,Arja Heinonen,30.04.2019,03.05.2019,25.02.2019,Confirmed,1.0,2,2.0,0.0,,131.2,18.0,28.8,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+22,2093236203.0,Van Es Jan-Kees,Jan-Kees Van Es,30.04.2019,03.05.2019,02.03.2019,Confirmed,1.0,4,2.0,2.0,5; 5,155.8,18.0,34.2,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+23,1221707112.0,Jelovčan Rok,Rok Jelovčan,01.05.2019,02.05.2019,02.03.2019,Confirmed,1.0,2,2.0,0.0,,36.9,18.0,8.1,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+24,2102023518.0,Dworak Daniel,Daniel Dworak,02.05.2019,04.05.2019,01.05.2019,Confirmed,1.0,2,2.0,0.0,,63.96,18.0,14.04,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+25,1522323473.0,Bedza Tomasz,Tomasz Bedza,03.05.2019,07.05.2019,22.02.2019,Confirmed,1.0,3,2.0,1.0,,213.2,18.0,46.8,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+26,3454606543.0,Efimov Vladimir,Vladimir Efimov,03.05.2019,04.05.2019,02.05.2019,Confirmed,1.0,2,2.0,0.0,,40.18,18.0,8.82,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+27,3628012963.0,Belanger Rene,Rene Belanger,04.05.2019,07.05.2019,02.05.2019,Confirmed,1.0,2,2.0,0.0,,110.7,18.0,24.3,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+28,2458350579.0,Bentley Wendy,Wendy Bentley,05.05.2019,09.05.2019,20.04.2019,Confirmed,1.0,2,2.0,0.0,,180.4,18.0,39.6,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+29,2144565692.0,Petit Alexandra,Alexandra Petit,07.05.2019,08.05.2019,05.05.2019,Confirmed,1.0,2,2.0,0.0,,36.9,18.0,8.1,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+30,2762110389.0,Lahaye Sandie,Sandie Lahaye,08.05.2019,09.05.2019,07.05.2019,Confirmed,1.0,2,2.0,0.0,,36.9,18.0,8.1,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+31,2082938528.0,Henderson Debbie,Debbie Henderson,09.05.2019,13.05.2019,13.12.2018,Confirmed,1.0,2,2.0,0.0,,180.4,18.0,39.6,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+32,2287594553.0,Palmero Lucia,Lucia Palmero,09.05.2019,11.05.2019,07.04.2019,Confirmed,1.0,4,4.0,0.0,,106.6,18.0,23.4,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+33,3064127071.0,Gaona Joris,Joris Gaona,09.05.2019,10.05.2019,28.04.2019,Confirmed,1.0,2,2.0,0.0,,36.9,18.0,8.1,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+34,1650663054.0,Miftakhov Ilnar,Ilnar Miftakhov,10.05.2019,13.05.2019,01.03.2019,Confirmed,1.0,1,1.0,0.0,,110.7,18.0,24.3,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+35,1247929267.0,Lucas Thomas,Thomas Lucas,11.05.2019,17.05.2019,24.02.2019,Confirmed,1.0,3,2.0,1.0,,270.6,18.0,59.4,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+36,1401867354.0,Kudryavtseva Maria,Maria Kudryavtseva,13.05.2019,19.05.2019,14.03.2019,Confirmed,1.0,1,1.0,0.0,,221.4,18.0,48.6,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+37,1466284361.0,Dhondt Joelle,Joelle Dhondt,16.05.2019,19.05.2019,23.02.2019,Confirmed,1.0,2,2.0,0.0,,135.3,18.0,29.7,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+38,1530215775.0,Verlinden Lorna,Lorna Verlinden,19.05.2019,26.05.2019,12.01.2019,Confirmed,1.0,2,2.0,0.0,,315.7,18.0,69.3,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+39,3901722992.0,Englander Kate,Kate Englander,19.05.2019,22.05.2019,01.04.2019,Confirmed,1.0,1,1.0,0.0,,110.7,18.0,24.3,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+40,3756773650.0,Niskanen Nina,Nina Niskanen,19.05.2019,20.05.2019,10.05.2019,Confirmed,1.0,2,2.0,0.0,,45.1,18.0,9.9,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+41,2415691869.0,Öncüer Alper,Alper Öncüer,20.05.2019,22.05.2019,16.05.2019,Confirmed,1.0,3,2.0,1.0,,90.2,18.0,19.8,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+42,2688247539.0,Victoria Walkden,Victoria Walkden,25.05.2019,26.05.2019,24.05.2019,Confirmed,1.0,2,2.0,0.0,,95.94,18.0,21.06,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+43,3601148869.0,Guntlisbergen Roel,Roel Guntlisbergen,25.05.2019,26.05.2019,24.05.2019,Confirmed,1.0,2,2.0,0.0,,28.7,18.0,6.3,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+44,1097452049.0,Turunen Anna,Anna Turunen,26.05.2019,02.06.2019,04.02.2019,Confirmed,1.0,1,1.0,0.0,,319.8,18.0,70.2,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+45,2488158660.0,Holl Simon,Simon Holl,26.05.2019,01.06.2019,26.03.2019,Confirmed,1.0,1,1.0,0.0,,221.4,18.0,48.6,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+46,1886797518.0,Sutherland Roger,Roger Sutherland,28.05.2019,29.05.2019,10.03.2019,Confirmed,1.0,4,4.0,0.0,,53.3,18.0,11.7,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+47,1839188160.0,Hilbring Alexander,Alexander Hilbring,29.05.2019,04.06.2019,06.12.2018,Confirmed,1.0,2,2.0,0.0,,282.9,18.0,62.1,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+48,2173928351.0,Ruzniaev Dmitrii,Dmitrii Ruzniaev,01.06.2019,02.06.2019,25.05.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+49,3591993675.0,Ersin Mustafa Önder,"Ersin, Mustafa Önder",02.06.2019,03.06.2019,31.05.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+50,3266190964.0,Ruuska Janika,Janika Ruuska,03.06.2019,06.06.2019,05.05.2019,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+51,2628510883.0,Gavel Greg,Greg Gavel,03.06.2019,04.06.2019,03.06.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+52,2913946384.0,Ardn Chloé,Chloé Ardn,04.06.2019,05.06.2019,03.06.2019,Confirmed,1.0,3,3.0,0.0,,40.18,18.0,8.82,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+53,2127243811.0,Altınel Mahmut,Mahmut Altınel,04.06.2019,05.06.2019,04.06.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+54,3422102951.0,Rothmann Wolfram,Wolfram Rothmann,05.06.2019,06.06.2019,05.06.2019,Confirmed,1.0,3,2.0,1.0,,31.98,18.0,7.02,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+55,3043640029.0,Samir Basim,Basim Samir,05.06.2019,06.06.2019,05.06.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+56,2035220765.0,Klyakhin Leonid,"Leonid Klyakhin, Sofya Klyakhina + Child Alisa Klyakhina",06.06.2019,09.06.2019,19.03.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+57,2493258268.0,Lumiala Marianna,Marianna Lumiala,06.06.2019,09.06.2019,13.04.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+58,3289343889.0,Samir Basim,Basim Samir,06.06.2019,07.06.2019,05.06.2019,Cancelled,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+59,1497231006.0,Roder Sieglinde,Sieglinde Roder,07.06.2019,10.06.2019,01.01.2019,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,Paid online,Card,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+60,1666574074.0,Szostek Wiesław,Wiesław Szostek,09.06.2019,17.06.2019,05.02.2019,Confirmed,1.0,2,2.0,0.0,,393.6,18.0,86.4,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+61,3090485196.0,Nassenstein Bianca,Bianca Nassenstein,09.06.2019,10.06.2019,21.04.2019,Confirmed,1.0,4,4.0,0.0,,57.4,18.0,12.6,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+62,2246036423.0,Janmaat Riemer,Riemer Janmaat,09.06.2019,10.06.2019,09.06.2019,Confirmed,1.0,2,2.0,0.0,,28.7,18.0,6.3,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+63,2801478064.0,Pyysalo Mikko,Mikko Pyysalo,10.06.2019,12.06.2019,09.06.2019,Confirmed,1.0,2,2.0,0.0,,63.96,18.0,14.04,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+64,1265303123.0,Kiely James,James Kiely,11.06.2019,14.06.2019,02.02.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,Paid online,Card,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+65,3702453622.0,Bueno Tobias,Tobias Bueno,11.06.2019,13.06.2019,10.06.2019,Confirmed,1.0,2,2.0,0.0,,57.4,18.0,12.6,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+66,1172148611.0,Risberg Elin,Elin Risberg,12.06.2019,19.06.2019,18.03.2019,Confirmed,1.0,2,2.0,0.0,,287.0,18.0,63.0,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+67,2483682287.0,Wespi Celine,Celine Wespi,14.06.2019,15.06.2019,13.06.2019,Confirmed,1.0,3,3.0,0.0,,48.38,18.0,10.62,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+68,1979012980.0,Korneev Igor,Igor Korneev,15.06.2019,29.06.2019,21.01.2019,Confirmed,1.0,4,3.0,1.0,,803.6,18.0,176.4,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+69,2325638834.0,Toyama Shunsuke,Shunsuke Toyama,15.06.2019,16.06.2019,20.05.2019,Confirmed,1.0,2,2.0,0.0,,32.8,18.0,7.2,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+70,1703440576.0,Edgren Jaki-Mikko,Jaki-Mikko Edgren,18.06.2019,25.06.2019,25.01.2019,Confirmed,1.0,2,2.0,0.0,,344.4,18.0,75.6,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+71,1732351126.0,Delibaş Buket,Buket Delibaş,20.06.2019,23.06.2019,24.12.2018,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+72,3249898207.0,Kurzewitz Christina,Christina Kurzewitz,22.06.2019,24.06.2019,11.06.2019,Confirmed,1.0,2,2.0,0.0,,65.6,18.0,14.4,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+73,2761365908.0,Fantoni Teresa,Teresa Fantoni,23.06.2019,24.06.2019,22.06.2019,Confirmed,1.0,2,2.0,0.0,,31.98,18.0,7.02,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+74,1668341118.0,Scholz Stephanie,Stephanie Scholz,24.06.2019,01.07.2019,01.02.2019,Confirmed,1.0,2,2.0,0.0,,229.6,18.0,50.4,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+75,2059568481.0,&#39;T Jong Renaldo,Renaldo &#39;T Jong,24.06.2019,27.06.2019,19.02.2019,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,Paid online,Card,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+76,2633309904.0,Pösel Bernhard,Bernhard Pösel,25.06.2019,28.06.2019,20.05.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+77,2992580909.0,Wenche Olsen,Olsen Wenche,25.06.2019,28.06.2019,24.06.2019,Confirmed,1.0,2,2.0,0.0,,112.34,18.0,24.66,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+78,3383173881.0,Mitchell Kate,Kate Mitchell,27.06.2019,29.06.2019,26.06.2019,Confirmed,1.0,2,2.0,0.0,,72.16,18.0,15.84,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+79,1066381820.0,Reed Adam,Adam Reed,28.06.2019,01.07.2019,09.01.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+80,2154266835.0,Alexander Melissa,Melissa Alexander,29.06.2019,02.07.2019,02.06.2019,Confirmed,1.0,2,2.0,0.0,,131.2,18.0,28.8,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+81,3044223068.0,Martinez Bujidos Maria,Maria Martinez Bujidos,29.06.2019,30.06.2019,27.06.2019,Confirmed,1.0,2,2.0,0.0,,49.2,18.0,10.8,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+82,2541322189.0,Korotaeva Anna,Anna Korotaeva,30.06.2019,02.07.2019,07.06.2019,Confirmed,1.0,4,4.0,0.0,,123.0,18.0,27.0,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+83,3719758838.0,Pawlowska-Grzelak Magdalena,Magdalena Pawlowska-Grzelak,01.07.2019,02.07.2019,29.06.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+84,1366707475.0,Kurki Jussi,Jussi Kurki,02.07.2019,05.07.2019,21.02.2019,Confirmed,1.0,4,2.0,2.0,2; 4,196.8,18.0,43.2,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+85,1588213952.0,Boström Jessica,Jessica Boström,02.07.2019,07.07.2019,04.03.2019,Confirmed,1.0,2,2.0,0.0,,246.0,18.0,54.0,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+86,2896715135.0,Yeung Yuen Yee,Yeung  Yuen Yee,02.07.2019,03.07.2019,26.06.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+87,3383187497.0,Durfort François,François Durfort,02.07.2019,03.07.2019,27.06.2019,Confirmed,1.0,2,2.0,0.0,,57.4,18.0,12.6,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+88,1764505377.0,Hong Anita,Anita Hong,03.07.2019,06.07.2019,06.01.2019,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+89,1979903531.0,Muirhead Heather,Heather Muirhead,03.07.2019,07.07.2019,06.02.2019,Confirmed,1.0,2,2.0,0.0,,229.6,18.0,50.4,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+90,1190540758.0,Thelen Yves,Yves  Thelen,05.07.2019,09.07.2019,29.01.2019,Confirmed,1.0,2,2.0,0.0,,229.6,18.0,50.4,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+91,2504253041.0,Hong Anita,Anita  Hong,06.07.2019,07.07.2019,08.05.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,Paid online,Card,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+92,2617327005.0,Vaiciulionis Aurelijus,Aurelijus Vaiciulionis,07.07.2019,11.07.2019,17.06.2019,Confirmed,1.0,4,2.0,2.0,15; 6,262.4,18.0,57.6,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+93,3012809137.0,Lowe Dawn,Dawn Lowe,07.07.2019,08.07.2019,19.06.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+94,3829901520.0,Parsons Clare,Clare Parsons,07.07.2019,08.07.2019,06.07.2019,Confirmed,1.0,2,2.0,0.0,,40.18,18.0,8.82,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+95,1456986884.0,Ayan Dedeoğlu Emel,Pelin Ayan,08.07.2019,11.07.2019,17.02.2019,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+96,2511210304.0,Delic Anes,Anes Delic,08.07.2019,09.07.2019,25.06.2019,Confirmed,1.0,2,2.0,0.0,,49.2,18.0,10.8,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+97,2977568980.0,Kałuziński Piotr,Piotr Kałuziński,09.07.2019,16.07.2019,18.05.2019,Confirmed,1.0,4,2.0,2.0,8; 15,459.2,18.0,100.8,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+98,3177657419.0,Gale Matt,Matt Gale,09.07.2019,13.07.2019,20.05.2019,Confirmed,1.0,2,2.0,0.0,,196.8,18.0,43.2,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+99,2621646965.0,Verardi Giovanni,Giovanni Verardi,09.07.2019,11.07.2019,08.07.2019,Confirmed,1.0,2,2.0,0.0,,80.36,18.0,17.64,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+100,2973290498.0,Lyytikäinen Juho,Juho Lyytikäinen,11.07.2019,15.07.2019,04.05.2019,Cancelled,1.0,2,2.0,0.0,,229.6,18.0,50.4,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+101,2929110399.0,Loimayr Vinzenz,Vinzenz Loimayr,11.07.2019,13.07.2019,16.06.2019,Confirmed,1.0,2,2.0,0.0,,82.0,18.0,18.0,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+102,3988788179.0,Michaelides Danae,Danae Michaelides,11.07.2019,12.07.2019,11.07.2019,Confirmed,1.0,2,2.0,0.0,,36.08,18.0,7.92,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+103,2983583994.0,Segui Victor,Victor Segui,12.07.2019,13.07.2019,07.07.2019,Confirmed,1.0,2,2.0,0.0,,40.18,18.0,8.82,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+104,2766619353.0,Edwards Katie,Katie Edwards,13.07.2019,15.07.2019,16.06.2019,Confirmed,1.0,2,2.0,0.0,,98.4,18.0,21.6,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+105,3723857513.0,Seppälä Iida,Iida Seppälä,14.07.2019,15.07.2019,25.06.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+106,3500810693.0,Fiala Isabel,Isabel Fiala,15.07.2019,18.07.2019,06.04.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+107,3370491044.0,Roos Katarina,Katarina Roos,15.07.2019,16.07.2019,15.07.2019,Confirmed,1.0,2,2.0,0.0,,40.18,18.0,8.82,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+108,2760288469.0,Perälä Roosa-Maria Emilia,Roosa-Maria Emilia Perälä,16.07.2019,17.07.2019,30.06.2019,Confirmed,1.0,4,4.0,0.0,,68.88,18.0,15.12,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+109,2418064119.0,Tahar Ali,Ali Tahar,16.07.2019,17.07.2019,16.07.2019,Confirmed,1.0,2,2.0,0.0,,36.08,18.0,7.92,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+110,,,,17.07.2019,20.07.2019,16.05.2019,Confirmed,1.0,3,3.0,0.0,,206.64,18.0,45.36,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+111,3736438101.0,Hines Megan,Megan Hines,18.07.2019,19.07.2019,17.07.2019,Confirmed,1.0,2,2.0,0.0,,40.18,18.0,8.82,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+112,3275960115.0,Breu Markus,Markus Breu,19.07.2019,22.07.2019,13.02.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+113,1607757534.0,Desjardins Mario,Mario Desjardins,20.07.2019,26.07.2019,24.11.2018,Confirmed,1.0,2,2.0,0.0,,364.08,18.0,79.92,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+114,1202300396.0,Bal Ingrid,Ingrid Bal,22.07.2019,23.07.2019,21.07.2019,Confirmed,1.0,2,2.0,0.0,,40.18,18.0,8.82,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+115,3636094871.0,Yang Liling,Liling Yang,23.07.2019,31.07.2019,05.04.2019,Confirmed,1.0,2,2.0,0.0,,393.6,18.0,86.4,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+116,3644842418.0,Kasimova Sevil,Sevil Kasimova,26.07.2019,27.07.2019,25.07.2019,Confirmed,1.0,4,2.0,2.0,13; 9,56.58,18.0,12.42,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+117,3041585126.0,Lievens Elena,Elena Lievens,27.07.2019,28.07.2019,25.07.2019,Confirmed,1.0,2,2.0,0.0,,48.38,18.0,10.62,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+118,2321773133.0,Lewis Dane,Dane Lewis,28.07.2019,09.08.2019,17.03.2019,Confirmed,1.0,4,2.0,2.0,10; 5,859.36,18.0,188.64,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+119,2049506578.0,Iakiamsev Maksim,Maksim Iakiamsev,28.07.2019,31.07.2019,27.05.2019,Confirmed,1.0,3,2.0,1.0,,123.0,18.0,27.0,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+120,2542675067.0,Ushakova Elena,Elena Ushakova,28.07.2019,29.07.2019,27.07.2019,Confirmed,1.0,2,2.0,0.0,,48.38,18.0,10.62,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+121,3711828479.0,Van Peteghem Nicolas,Nicolas Van Peteghem,29.07.2019,01.08.2019,14.05.2019,Cancelled,1.0,2,2.0,0.0,,182.04,18.0,39.96,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+122,2511722734.0,Tregillis Brian,Brian Tregillis,31.07.2019,04.08.2019,27.03.2019,Confirmed,1.0,2,2.0,0.0,,176.3,18.0,38.7,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+123,2818659923.0,Sümer Enes,Enes Sümer,31.07.2019,03.08.2019,16.06.2019,Confirmed,1.0,2,2.0,0.0,,155.8,18.0,34.2,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+124,2135985543.0,Deymier Nicolas,Nicolas Deymier,01.08.2019,02.08.2019,12.06.2019,Confirmed,1.0,2,2.0,0.0,,64.78,18.0,14.22,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+125,2464742456.0,Allais Mehdi,Mehdi Allais,02.08.2019,03.08.2019,25.06.2019,Confirmed,1.0,4,2.0,2.0,16; 17,72.98,18.0,16.02,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+126,3474394317.0,Bartels John,John Bartels,03.08.2019,09.08.2019,10.05.2019,Confirmed,1.0,2,2.0,0.0,,319.8,18.0,70.2,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+127,3570275548.0,Rampazzo Alessandro,Alessandro Rampazzo,03.08.2019,04.08.2019,03.08.2019,Confirmed,1.0,2,2.0,0.0,,49.83,18.0,10.94,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+128,2708817993.0,Lindberg Julia,Julia Lindberg,04.08.2019,17.08.2019,03.02.2019,Confirmed,1.0,2,2.0,0.0,,842.14,18.0,184.86,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+129,1752541283.0,Fedorovskaia Ekaterina,"Ekaterina Fedorovskaia,Kirill Knysh",04.08.2019,07.08.2019,13.06.2019,Confirmed,1.0,2,2.0,0.0,,135.3,18.0,29.7,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+130,2808181421.0,Robles Godoy Ismael,Ismael Robles Godoy,09.08.2019,12.08.2019,19.02.2019,Confirmed,1.0,2,2.0,0.0,,159.9,18.0,35.1,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+131,1225379867.0,Karagöz Dilek,Dilek Karagöz,09.08.2019,10.08.2019,21.06.2019,Confirmed,1.0,2,2.0,0.0,,64.78,18.0,14.22,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+132,3469827858.0,Keiding Ulrik Bering,Ulrik Bering Keiding,10.08.2019,11.08.2019,10.08.2019,Confirmed,1.0,2,2.0,0.0,,49.83,18.0,10.94,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+133,3886413550.0,Petitjean Margaux,Margaux Petitjean,11.08.2019,13.08.2019,28.07.2019,Confirmed,1.0,4,2.0,2.0,12; 12,145.96,18.0,32.04,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+134,2312889071.0,Naisby Richard,Richard Naisby,12.08.2019,13.08.2019,03.08.2019,Confirmed,1.0,2,2.0,0.0,,54.9,18.0,12.05,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+135,3913690318.0,Corteville Hugo,Hugo Corteville,13.08.2019,18.08.2019,15.02.2019,Confirmed,1.0,4,2.0,2.0,4; 1,364.9,18.0,80.1,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+136,1715879181.0,Bompani Fabrizio,Fabrizio Bompani,13.08.2019,17.08.2019,12.06.2019,Confirmed,1.0,2,2.0,0.0,,213.2,18.0,46.8,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+137,3350915951.0,Ferdinandi Jacopo,Jacopo Ferdinandi,15.08.2019,21.08.2019,03.04.2019,Confirmed,1.0,2,2.0,0.0,,270.6,18.0,59.4,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+138,3015021296.0,Guy Nicolas,Nicolas Guy,17.08.2019,27.08.2019,07.05.2019,Confirmed,1.0,2,2.0,0.0,,508.4,18.0,111.6,Paid online,Card,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+139,2361062067.0,Landureau Victor,Victor Landureau,17.08.2019,18.08.2019,22.06.2019,Confirmed,1.0,2,2.0,0.0,,64.78,18.0,14.22,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+140,3357459506.0,Vallet Pascale,Pascale Vallet,18.08.2019,20.08.2019,09.08.2019,Confirmed,1.0,3,3.0,0.0,,150.34,18.0,33.0,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+141,2446711777.0,Jacquemart Arnaud,Arnaud Jacquemart,18.08.2019,19.08.2019,15.08.2019,Confirmed,1.0,2,2.0,0.0,,66.72,18.0,14.65,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+142,2572683589.0,Kanic Nina,Nina Kanic,19.08.2019,22.08.2019,27.06.2019,Confirmed,1.0,2,2.0,0.0,,190.24,18.0,41.76,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+143,3366254550.0,Posthumus Pelle,Pelle Posthumus,20.08.2019,27.08.2019,12.01.2019,Confirmed,1.0,2,2.0,0.0,,428.86,18.0,94.14,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+144,1458077648.0,Jari Vänskä,Vänskä Jari,21.08.2019,22.08.2019,19.08.2019,Confirmed,1.0,2,2.0,0.0,,42.23,18.0,9.27,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+145,2926717906.0,Nikkanen Konsta,Konsta Nikkanen,22.08.2019,29.08.2019,30.06.2019,Confirmed,1.0,2,2.0,0.0,,424.76,18.0,93.24,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+146,2763189960.0,Higgins Sarah,Sarah Higgins,27.08.2019,30.08.2019,10.05.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+147,2351813319.0,Sonntag Carmen,Carmen  Sonntag,27.08.2019,02.09.2019,27.06.2019,Confirmed,1.0,2,2.0,0.0,,237.8,18.0,52.2,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+148,2120034527.0,Perepelova Albina,Albina Perepelova,27.08.2019,31.08.2019,14.07.2019,Confirmed,1.0,2,2.0,0.0,,242.72,18.0,53.28,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+149,2648703421.0,Mckeague Dean,Dean Mckeague,29.08.2019,30.08.2019,28.08.2019,Confirmed,1.0,2,2.0,0.0,,49.83,18.0,10.94,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+150,2617080193.0,González Javier,Javier González,30.08.2019,31.08.2019,09.08.2019,Confirmed,1.0,2,2.0,0.0,,62.5,18.0,13.72,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+151,3010675675.0,Vasilenko Valeriya,Valeriya Vasilenko,31.08.2019,01.09.2019,29.08.2019,Confirmed,1.0,2,2.0,0.0,,45.61,18.0,10.01,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+152,3658542683.0,Langmann Thomas,Thomas Langmann,31.08.2019,01.09.2019,30.08.2019,Confirmed,1.0,4,4.0,0.0,,62.5,18.0,13.72,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+153,3658542962.0,Kononov Pavel,Pavel Kononov,31.08.2019,01.09.2019,31.08.2019,Confirmed,1.0,2,2.0,0.0,,49.83,18.0,10.94,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+154,3605940813.0,Lamers Adrianus,Adrianus Lamers,01.09.2019,05.09.2019,28.12.2018,Confirmed,1.0,2,2.0,0.0,,196.8,18.0,43.2,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+155,2057405791.0,Belyaeva Tatiana,Tatiana Belyaeva,01.09.2019,10.09.2019,27.03.2019,Confirmed,1.0,1,1.0,0.0,,442.8,18.0,97.2,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+156,3129364094.0,Nikitenko Svetlana,Svetlana Nikitenko,01.09.2019,05.09.2019,07.07.2019,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+157,2222863755.0,Findelair Caroline,Caroline Findelair,03.09.2019,08.09.2019,22.06.2019,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+158,3557058804.0,Danis Marine,Marine Danis,05.09.2019,07.09.2019,24.08.2019,Confirmed,1.0,2,2.0,0.0,,84.46,18.0,18.54,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+159,2755820624.0,De La Asunción Alba,Alba De La Asunción,05.09.2019,06.09.2019,31.08.2019,Confirmed,1.0,2,2.0,0.0,,50.68,18.0,11.12,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+160,3590152804.0,Ko Tia,Tia Ko,06.09.2019,07.09.2019,07.07.2019,Cancelled,1.0,4,4.0,0.0,,57.4,18.0,12.6,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+161,3014899478.0,Luo Fang,Luo Fang,06.09.2019,07.09.2019,05.09.2019,Confirmed,1.0,2,2.0,0.0,,41.39,18.0,9.08,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+162,3314483570.0,Guilhaume Marjolaine,Marjolaine  Guilhaume,07.09.2019,10.09.2019,28.03.2019,Confirmed,1.0,2,2.0,0.0,,147.6,18.0,32.4,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+163,2351778794.0,Johnston Judi,Judi Johnston,07.09.2019,11.09.2019,26.06.2019,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+164,2888649849.0,Ersoy Ali,Ali Ersoy,09.09.2019,10.09.2019,08.09.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+165,2281929137.0,Boeckxstaens Robin,Robin Boeckxstaens,10.09.2019,13.09.2019,17.07.2019,Confirmed,1.0,2,2.0,0.0,,98.4,18.0,21.6,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+166,3388666010.0,Dvash Susana,Ran Levy,11.09.2019,12.09.2019,07.09.2019,Confirmed,1.0,2,2.0,0.0,,42.23,18.0,9.27,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+167,3344144659.0,Shrestha Mandira,Mandira Shrestha,11.09.2019,14.09.2019,10.09.2019,Confirmed,1.0,4,4.0,0.0,,158.78,18.0,34.86,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+168,3832755928.0,Boháčik Ján,Ján Boháčik,12.09.2019,19.09.2019,25.02.2019,Confirmed,1.0,2,2.0,0.0,,344.4,18.0,75.6,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+169,1002636466.0,Murray Thomas,Thomas Murray,12.09.2019,13.09.2019,12.09.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+170,3995656946.0,Robbers Karien,Karien Robbers,13.09.2019,18.09.2019,11.06.2019,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+171,2695976476.0,Maisonneuve Cédric,Cédric Maisonneuve,14.09.2019,17.09.2019,14.07.2019,Confirmed,1.0,2,2.0,0.0,,123.0,18.0,27.0,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+172,3163877584.0,Rauturier Sandrine,Sandrine Rauturier,14.09.2019,18.09.2019,22.07.2019,Confirmed,1.0,2,2.0,0.0,,196.8,18.0,43.2,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+173,3036028593.0,Kenttälä Markus,Markus Kenttälä,17.09.2019,21.09.2019,12.08.2019,Confirmed,1.0,2,2.0,0.0,,168.92,18.0,37.08,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+174,2283223621.0,Schwarz Vanessa,Vanessa Schwarz,18.09.2019,27.09.2019,26.08.2019,Confirmed,1.0,2,2.0,0.0,,456.08,18.0,100.12,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+175,3471119849.0,Orädd Irja,Irja Orädd,19.09.2019,21.09.2019,15.08.2019,Confirmed,1.0,2,2.0,0.0,,101.35,18.0,22.25,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+176,3790908637.0,Aldunate Maria,Maria Aldunate,21.09.2019,22.09.2019,20.09.2019,Confirmed,1.0,2,2.0,0.0,,41.39,18.0,9.08,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+177,3767898051.0,Mashkina Elena,Elena Mashkina,21.09.2019,22.09.2019,20.09.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+178,2435642186.0,Kokhanova Alina,Alina Kokhanova,22.09.2019,25.09.2019,02.09.2019,Confirmed,1.0,2,2.0,0.0,,126.69,18.0,27.81,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+179,2467317139.0,Mcguinness Karen,Karen Mcguinness,22.09.2019,23.09.2019,22.09.2019,Confirmed,1.0,2,2.0,0.0,,41.39,18.0,9.08,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+180,2435698861.0,Gomes Marta,Marta Gomes,23.09.2019,25.09.2019,06.09.2019,Confirmed,1.0,2,2.0,0.0,,101.35,18.0,22.25,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+181,2179939391.0,Han Yan,Han Yan Fu Meilin,23.09.2019,24.09.2019,21.09.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+182,3247129292.0,Moreno Clavero Francisco,Francisco Moreno Clavero,25.09.2019,27.09.2019,20.09.2019,Confirmed,1.0,2,2.0,0.0,,74.32,18.0,16.32,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+183,3382930558.0,Gillard Romain,Romain Gillard,26.09.2019,27.09.2019,25.09.2019,Confirmed,1.0,2,2.0,0.0,,29.56,18.0,6.49,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+184,3729237707.0,Wieck Maren,Maren Wieck,27.09.2019,08.10.2019,15.08.2019,Confirmed,1.0,2,2.0,0.0,,405.41,18.0,88.99,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+185,3804685072.0,Sizov Mikhail,Mikhail Sizov,27.09.2019,30.09.2019,31.08.2019,Confirmed,1.0,4,4.0,0.0,,177.37,18.0,38.93,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+186,3921314695.0,Yang Qingqing,Qingqing Yang;Beijin Wang;Yufei Yang,27.09.2019,29.09.2019,25.09.2019,Confirmed,1.0,2,2.0,0.0,,59.12,18.0,12.98,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+187,3150653324.0,Rakovic Marko,Marko Rakovic,29.09.2019,01.10.2019,21.08.2019,Confirmed,1.0,2,2.0,0.0,,101.35,18.0,22.25,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+188,2625907639.0,Kozminska Marta,Marta Kozminska,29.09.2019,01.10.2019,28.09.2019,Confirmed,1.0,1,1.0,0.0,,59.12,18.0,12.98,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+189,2174873127.0,Goellner Kerstin,Kerstin Goellner,30.09.2019,07.10.2019,05.03.2019,Confirmed,1.0,2,2.0,0.0,,295.2,18.0,64.8,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+190,3469200556.0,Kemp Patricia,Patricia Kemp,01.10.2019,03.10.2019,28.07.2019,Confirmed,1.0,2,2.0,0.0,,82.0,18.0,18.0,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+191,3805346594.0,Laidler John,John Laidler,03.10.2019,05.10.2019,16.09.2019,Confirmed,1.0,2,2.0,0.0,,84.46,18.0,18.54,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+192,2227372417.0,Zabihi Robert,Robert Zabihi,05.10.2019,07.10.2019,04.10.2019,Confirmed,1.0,2,2.0,0.0,,59.12,18.0,12.98,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+193,3153488352.0,Wallois Julien,Julien Wallois,06.10.2019,07.10.2019,30.09.2019,Confirmed,1.0,2,2.0,0.0,,42.23,18.0,9.27,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+194,3579118616.0,Fang Hong,Fang Hong,07.10.2019,08.10.2019,08.09.2019,Cancelled,1.0,2,2.0,0.0,,42.23,18.0,9.27,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+195,3238887476.0,Choi Lnhak,Choi Lnhak,07.10.2019,08.10.2019,07.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+196,2260806021.0,Neeman Sivan,Sivan Neeman,08.10.2019,12.10.2019,06.10.2019,Confirmed,1.0,2,2.0,0.0,,131.76,18.0,28.92,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+197,2787011359.0,Veijalainen Niina,Niina Veijalainen,08.10.2019,09.10.2019,06.10.2019,Confirmed,1.0,2,2.0,0.0,,29.56,18.0,6.49,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+198,3291523078.0,Pernía Sánchez Ana,Ana Pernía Sánchez,08.10.2019,09.10.2019,08.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+199,2260826054.0,刘 超,刘 超,09.10.2019,11.10.2019,08.10.2019,Confirmed,1.0,2,2.0,0.0,,65.88,18.0,14.46,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+200,3284183822.0,Ertosun Bülent,Bülent Ertosun,10.10.2019,11.10.2019,09.10.2019,Confirmed,1.0,2,2.0,0.0,,29.56,18.0,6.49,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+201,2968141481.0,Cutocheras Matei,Matei Cutocheras,11.10.2019,13.10.2019,12.09.2019,Confirmed,1.0,2,2.0,0.0,,84.46,18.0,18.54,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+202,3192714709.0,Song Yudong,Song Yudong，Ni Xuetong,12.10.2019,13.10.2019,12.10.2019,Confirmed,1.0,2,2.0,0.0,,29.56,18.0,6.49,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+203,2746676109.0,Tschernutter Karin,Karin Tschernutter,13.10.2019,21.10.2019,03.09.2019,Confirmed,1.0,2,2.0,0.0,,337.84,18.0,74.16,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+204,2724728207.0,Smirnova Olga,Olga Smirnova,13.10.2019,14.10.2019,12.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+205,2557756782.0,Zuelch Cord,Cord Zuelch,14.10.2019,17.10.2019,08.10.2019,Confirmed,1.0,2,2.0,0.0,,88.68,18.0,19.47,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+206,3955602586.0,赖 毅鹏,"赖, 毅鹏",14.10.2019,15.10.2019,10.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+207,2239413905.0,Kuznetsov Semen,Semen Kuznetsov,15.10.2019,16.10.2019,08.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+208,3891934940.0,Johnny Vivian,Vivian Johnny,16.10.2019,20.10.2019,25.09.2019,Confirmed,1.0,2,2.0,0.0,,168.92,18.0,37.08,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+209,2978599423.0,Weineholm Jens,Jens Weineholm,17.10.2019,20.10.2019,27.09.2019,Confirmed,1.0,2,2.0,0.0,,101.35,18.0,22.25,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+210,2105770884.0,Primak,Primak,17.10.2019,18.10.2019,08.10.2019,Confirmed,1.0,2,2.0,0.0,,29.56,18.0,6.49,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+211,3903293661.0,Field Colin,Colin Field,18.10.2019,22.10.2019,10.10.2019,Confirmed,1.0,1,1.0,0.0,,118.24,18.0,25.96,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+212,2968108154.0,Blazhko Alena,Alena Blazhko,20.10.2019,21.10.2019,20.10.2019,Confirmed,1.0,4,2.0,2.0,14; 10,41.39,18.0,9.08,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+213,2312261503.0,Crucitti Marc,Marc Crucitti,22.10.2019,23.10.2019,19.01.2019,Confirmed,1.0,2,2.0,0.0,,41.0,18.0,9.0,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+214,1849924693.0,Bernai Gergely,Bernai Gergely,22.10.2019,23.10.2019,21.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+215,3468227684.0,Parayre Laurent,Laurent Parayre,23.10.2019,25.10.2019,20.10.2019,Confirmed,1.0,2,2.0,0.0,,65.88,18.0,14.46,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+216,3897684602.0,Spiteri Kate,Kate Spiteri,25.10.2019,28.10.2019,10.10.2019,Confirmed,1.0,1,1.0,0.0,,88.68,18.0,19.47,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+217,3937673868.0,Dudukina Tatiana,Tatiana Dudukina,26.10.2019,28.10.2019,24.10.2019,Confirmed,1.0,2,2.0,0.0,,59.12,18.0,12.98,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+218,3489738237.0,Vajngerl Tomaž,Tomaž Vajngerl,27.10.2019,28.10.2019,19.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+219,2172976534.0,Fernandez Perez Alberto,Alberto Fernandez Perez,28.10.2019,29.10.2019,17.10.2019,Confirmed,1.0,2,2.0,0.0,,32.94,18.0,7.23,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+220,2294044292.0,Akyol Ayse,Ayse Akyol,30.10.2019,31.10.2019,30.10.2019,Confirmed,1.0,2,2.0,0.0,,26.18,18.0,5.75,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+221,3044838719.0,Mária Sárikné Deutsch,Sárikné Deutsch Mária,10.07.2020,15.07.2020,06.01.2020,Confirmed,1.0,2,2.0,0.0,,295.2,18.0,64.8,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+222,2210088623.0,Gniazdowska Monika,Izabela Klimczewska,15.07.2020,17.07.2020,14.07.2020,Confirmed,1.0,2,2.0,0.0,,63.96,18.0,14.04,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+223,2310781853.0,Sárkány Előd Szilveszter,Aleksandra Gęsicka,16.07.2020,18.07.2020,14.07.2020,Confirmed,1.0,2,2.0,0.0,,47.56,18.0,10.44,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+224,2274513344.0,Gwizdz Alicja,Anna Przeworska,23.07.2020,26.07.2020,21.07.2020,Confirmed,1.0,2,2.0,0.0,,71.34,18.0,15.66,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+225,3612440501.0,Kolenda Anna,Adam Filiks,23.07.2020,26.07.2020,22.07.2020,Confirmed,1.0,2,2.0,0.0,,95.94,18.0,21.06,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+226,2224416656.0,Filiks Adam,David Drakulovic,30.07.2020,31.07.2020,29.07.2020,Confirmed,1.0,2,2.0,0.0,,23.78,18.0,5.22,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,,,,,,,,,D,,,4
+227,2284117766.0,Ashcroft Megan,"Sárkány, Előd Szilveszter",31.07.2020,05.08.2020,13.07.2020,Confirmed,1.0,2,2.0,0.0,,164.0,18.0,36.0,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+228,3666861902.0,Lipinska Marta,Anna Nielipinska,31.07.2020,01.08.2020,31.07.2020,Confirmed,1.0,2,2.0,0.0,,23.78,18.0,5.22,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+229,3168558138.0,Gęsicka Aleksandra,Alicja Gwizdz,02.08.2020,12.08.2020,17.07.2020,Confirmed,1.0,3,3.0,0.0,,442.8,18.0,97.2,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,,,,,,,,,A,,,4
+230,3335452243.0,Martens Erik,Erik Martens,09.08.2020,12.08.2020,12.01.2020,Confirmed,1.0,3,2.0,1.0,,243.54,18.0,53.46,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+231,3251250059.0,Klimczewska Izabela,Anna Kolenda,13.08.2020,15.08.2020,18.07.2020,Confirmed,1.0,2,2.0,0.0,,57.4,18.0,12.6,,,Studio with Patio and Sea View,10.0,Booking,,,,,,,,,C,,,2
+232,2307791873.0,Drakulovic David,Oleh Mykhailiuk,13.08.2020,15.08.2020,08.08.2020,Confirmed,1.0,1,1.0,0.0,,47.56,18.0,10.44,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+233,3299147332.0,Nielipinska Anna,Przemysław Pilch,16.08.2020,20.08.2020,12.08.2020,Confirmed,1.0,2,2.0,0.0,,127.92,18.0,28.08,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+234,2184010775.0,Pilch Przemysław,Maciej Boiski,16.08.2020,17.08.2020,16.08.2020,Confirmed,1.0,2,2.0,0.0,,23.78,18.0,5.22,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+235,2720125985.0,Zakharova Irina,Adelina Berisha,20.08.2020,23.08.2020,18.08.2020,Cancelled,1.0,2,2.0,0.0,,71.34,18.0,15.66,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+236,3020331127.0,Darricau Gaëlle,Paweł Guz,20.08.2020,22.08.2020,19.08.2020,Confirmed,1.0,2,2.0,0.0,,63.96,18.0,14.04,,,Studio with Patio and Sea View,7.0,Booking,,,,,,,,,C,,,2
+237,2198008434.0,Berisha Adelina,Kateryna Shevchenko,20.08.2020,21.08.2020,20.08.2020,Confirmed,1.0,2,2.0,0.0,,23.78,18.0,5.22,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+238,2844997397.0,Wawrzyńska Mariola,Monika Gniazdowska,22.08.2020,27.08.2020,13.07.2020,Confirmed,1.0,3,3.0,0.0,,159.9,18.0,35.1,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+239,3594871097.0,Penkova Anastasiya,Irina Zakharova,22.08.2020,29.08.2020,18.08.2020,Confirmed,1.0,2,2.0,0.0,,223.86,18.0,49.14,,,One-Bedroom Apartment with Patio and Sea View,7.0,Booking,,,,,,,,,D,,,4
+240,3431170671.0,Huriev Oleksandr,Gaëlle Darricau,22.08.2020,24.08.2020,18.08.2020,Confirmed,1.0,2,2.0,0.0,,63.96,18.0,14.04,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+241,3843171828.0,Guz Paweł,Phillip Garner,23.08.2020,24.08.2020,21.08.2020,Confirmed,1.0,2,2.0,0.0,,23.78,18.0,5.22,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+242,2688496317.0,Boiski Maciej,Oleksandr Huriev,24.08.2020,25.08.2020,17.08.2020,Confirmed,1.0,2,2.0,0.0,,23.78,18.0,5.22,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+243,3737705639.0,Yulia Yulia,Anastasiya Penkova,26.08.2020,02.09.2020,17.08.2020,Confirmed,1.0,2,2.0,0.0,,235.67,18.0,51.73,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+244,2668756614.0,Przeworska Anna,Marta Lipinska,30.08.2020,07.09.2020,25.07.2020,Confirmed,1.0,2,2.0,0.0,,293.89,18.0,64.51,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+245,3992438269.0,Balakhonkin Anton,Anton Balakhonkin,31.08.2020,11.09.2020,06.01.2020,Confirmed,1.0,4,4.0,0.0,,699.46,18.0,153.54,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+246,2227128291.0,Garner Phillip,Ines Mravunac Sužnjević,02.09.2020,06.09.2020,27.08.2020,Confirmed,1.0,2,2.0,0.0,,95.12,18.0,20.88,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+247,3662346745.0,Shevchenko Kateryna,Elena Abrosimova,10.09.2020,14.09.2020,25.08.2020,Confirmed,1.0,2,2.0,0.0,,142.35,18.0,31.25,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+248,2864174409.0,Abrosimova Elena,Viktoriya Lenyk,12.09.2020,16.09.2020,06.09.2020,Confirmed,1.0,2,2.0,0.0,,127.92,18.0,28.08,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+249,3217038516.0,Mravunac Sužnjević Ines,Lesya Kokuzina,12.09.2020,16.09.2020,06.09.2020,Confirmed,1.0,2,2.0,0.0,,95.12,18.0,20.88,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+250,2642922280.0,Kokuzina Lesya,Vladimir Mukomela,16.09.2020,18.09.2020,16.09.2020,Confirmed,1.0,4,2.0,2.0,6; 3,72.16,18.0,15.84,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+251,2476055321.0,Lenyk Volodymyr,Alona Sytnyk,17.09.2020,22.09.2020,10.09.2020,Confirmed,1.0,2,2.0,0.0,,159.9,18.0,35.1,Paid online,Card,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+252,2688128194.0,Mykhailiuk Oleh,Yulia Yulia,18.09.2020,24.09.2020,14.08.2020,Confirmed,1.0,3,2.0,1.0,,237.64,18.0,52.16,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+253,3595829045.0,Quinn Eileen,Eileen Quinn,19.09.2020,22.09.2020,09.01.2020,Confirmed,1.0,2,2.0,0.0,,152.52,18.0,33.48,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+254,2177211152.0,,Richard Young ,13.07.2021,18.07.2021,07.01.2020,Confirmed,,2,2.0,0.0,,254.2,,55.8,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+255,2184747030.0,,Horváth Zsuzsanna ,26.07.2021,02.08.2021,06.05.2021,Confirmed,,4,4.0,0.0,,424.76,,93.24,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+256,3216185971.0,,Sirok Gábor ,16.07.2021,30.07.2021,07.05.2021,Confirmed,,4,4.0,0.0,,833.12,,182.88,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+257,2149858814.0,,Serg Kostrukov ,28.06.2021,30.06.2021,14.05.2021,Confirmed,,4,4.0,0.0,,88.56,,19.44,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+258,2801101587.0,,Daria Romanova ,08.08.2021,15.08.2021,16.05.2021,Confirmed,,3,3.0,0.0,,408.36,,89.64,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+259,2993634676.0,,Emil Kordić ,24.06.2021,28.06.2021,19.05.2021,Confirmed,,2,2.0,0.0,,144.32,,31.68,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+260,2846190001.0,,Oleksandra Honcharova ,25.06.2021,27.06.2021,31.05.2021,Confirmed,,2,2.0,0.0,,72.16,,15.84,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+261,2622761859.0,,Jovana Avramović ,15.08.2021,22.08.2021,06.06.2021,Confirmed,,2,2.0,0.0,,252.56,,55.44,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+262,2622739890.0,,Frank Hageneier ,18.07.2021,21.07.2021,07.06.2021,Confirmed,,2,2.0,0.0,,149.24,,32.76,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+263,2411193121.0,,Dimitar Delipetrev ,25.07.2021,01.08.2021,07.06.2021,Confirmed,,2,2.0,0.0,,281.26,,61.74,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+264,2493529664.0,,Pavel Bezouška ,22.07.2021,23.07.2021,07.06.2021,Confirmed,,4,4.0,0.0,,60.68,,13.32,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+265,3878795126.0,,Gergely Csordás ,11.08.2021,14.08.2021,09.06.2021,Confirmed,,2,2.0,0.0,,145.14,,31.86,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+266,2721879422.0,,Gwennael Davayat ,14.08.2021,16.08.2021,10.06.2021,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+267,2436180686.0,,Filipp Trigub ,06.08.2021,13.08.2021,12.06.2021,Confirmed,,2,2.0,0.0,,301.76,,66.24,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+268,2258409822.0,,Yevhenii Vynohradov ,18.07.2021,21.07.2021,15.06.2021,Confirmed,,2,2.0,0.0,,108.24,,23.76,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+269,3050555032.0,,Olena Herina ,03.08.2021,10.08.2021,18.06.2021,Confirmed,,2,2.0,0.0,,338.66,,74.34,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+270,2326602425.0,,Louis Charreaux ,11.08.2021,12.08.2021,18.06.2021,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+271,3460335942.0,,Elena Kalaitzi ,25.07.2021,26.07.2021,19.06.2021,Confirmed,,2,2.0,0.0,,36.08,,7.92,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+272,2745007960.0,,Milos Sofranic ,28.06.2021,04.07.2021,19.06.2021,Confirmed,,2,2.0,0.0,,182.04,,39.96,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+273,3401358906.0,,Michał Jędraszczyk ,20.06.2021,22.06.2021,19.06.2021,Confirmed,,3,2.0,1.0,0,88.56,,19.44,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+274,3035622868.0,,Tatiana Belova ,25.06.2021,26.06.2021,19.06.2021,Confirmed,,1,1.0,0.0,,31.98,,7.02,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+275,2955443715.0,,Ariel Roitman ,20.07.2021,24.07.2021,21.06.2021,Confirmed,,2,2.0,0.0,,209.92,,46.08,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+276,2767280391.0,,Brune Du Marais ,17.07.2021,18.07.2021,22.06.2021,Confirmed,,2,2.0,0.0,,36.08,,7.92,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+277,2767203439.0,,Jelena Savic ,24.06.2021,27.06.2021,22.06.2021,Confirmed,,2,2.0,0.0,,86.1,,18.9,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+278,3002564177.0,,Jakub Rutkowski ,06.07.2021,15.07.2021,24.06.2021,Confirmed,,2,2.0,0.0,,361.62,,79.38,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+279,3090205990.0,,Krzysztof Skaryszewski ,26.06.2021,28.06.2021,26.06.2021,Confirmed,,2,2.0,0.0,,63.96,,14.04,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+280,2294230570.0,,Islam Amin ,16.07.2021,18.07.2021,26.06.2021,Confirmed,,3,2.0,1.0,0,96.76,,21.24,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+281,2149078784.0,,Ibrahim Amin ,16.07.2021,18.07.2021,26.06.2021,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+282,2294203046.0,,Pauline Clement ,18.07.2021,23.07.2021,26.06.2021,Confirmed,,2,2.0,0.0,,159.9,,35.1,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+283,3033558544.0,,Anastasiia Hetiuk ,14.07.2021,16.07.2021,27.06.2021,Confirmed,,1,1.0,0.0,,96.76,,21.24,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+284,2330020905.0,,Arnau Carné Carvajal ,06.08.2021,07.08.2021,27.06.2021,Confirmed,,2,2.0,0.0,,44.28,,9.72,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+285,3035186112.0,,Miroshnychenko ,29.06.2021,30.06.2021,29.06.2021,Confirmed,,2,2.0,0.0,,31.98,,7.02,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+286,2676933331.0,,Olesya Maxymovych ,30.06.2021,01.07.2021,30.06.2021,Confirmed,,2,2.0,0.0,,44.28,,9.72,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+287,2676935409.0,,Ata Altunbas ,21.07.2021,23.07.2021,30.06.2021,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+288,3107258287.0,,Dmytro Tymoshok ,16.07.2021,17.07.2021,02.07.2021,Arriving,,4,4.0,0.0,,48.38,,10.62,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+289,2202654906.0,,Magdalena Drogosz ,22.08.2021,31.08.2021,03.07.2021,Confirmed,,2,2.0,0.0,,435.42,,95.58,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+290,2674962525.0,,Vlatko Zovko ,09.07.2021,11.07.2021,08.07.2021,Confirmed,,1,1.0,0.0,,80.36,,17.64,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+291,3717533266.0,,Nidia Dominguez Felipe ,11.07.2021,13.07.2021,08.07.2021,Arriving,,3,3.0,0.0,,104.96,,23.04,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+292,2534876501.0,,Florian Amstutz ,15.07.2021,16.07.2021,15.07.2021,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+293,2507422922.0,,Shamil Bakiev ,17.07.2021,18.07.2021,17.07.2021,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+294,3124995082.0,,Evgeniya Mariupolskiy ,18.07.2021,20.07.2021,14.07.2021,Arriving,,2,2.0,0.0,,96.76,,21.24,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+295,2281227149.0,,Barbara Streitbörger ,18.07.2021,20.07.2021,16.07.2021,Confirmed,,2,2.0,0.0,,96.76,,21.24,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+296,2565331425.0,,Nicolas Fradin ,19.07.2021,21.07.2021,19.07.2021,Confirmed,,2,2.0,0.0,,72.16,,15.84,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+297,2793159678.0,,Timothée Farissi ,21.07.2021,23.07.2021,19.07.2021,Arriving,,2,2.0,0.0,,72.16,,15.84,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+298,3459568490.0,,Lukas Rauchenschwandtner ,21.07.2021,22.07.2021,21.07.2021,Confirmed,,2,2.0,0.0,,60.68,,13.32,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+299,2874725035.0,,Rokas Skripkauskas ,23.07.2021,24.07.2021,06.07.2021,Arriving,,2,2.0,0.0,,0.0,,0.0,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+300,3621662926.0,,Eduarda Roca ,23.07.2021,26.07.2021,08.07.2021,Confirmed,,2,2.0,0.0,,157.44,,34.56,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+301,2748818300.0,,Julien Salmon ,23.07.2021,25.07.2021,17.07.2021,Confirmed,,2,2.0,0.0,,80.36,,0.0,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+302,3443382095.0,,Marcin Duraj ,23.07.2021,25.07.2021,20.07.2021,Confirmed,,2,2.0,0.0,,72.16,,15.84,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+303,3495599744.0,,Tomasz Poplawski ,24.07.2021,26.07.2021,16.07.2021,Arriving,,2,2.0,0.0,,104.96,,23.04,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+304,3676679719.0,,Rokas Skripkauskas ,27.07.2021,28.07.2021,11.07.2021,Arriving,,2,2.0,0.0,,36.08,,7.92,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+305,2185291500.0,,Ligia Stanescu ,28.07.2021,31.07.2021,07.07.2021,Confirmed,,2,2.0,0.0,,95.94,,21.06,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+306,3526790935.0,,Igor Iemelianov ,01.08.2021,03.08.2021,21.07.2021,Confirmed,,4,2.0,2.0,2;11,121.36,,26.64,,,One-Bedroom Apartment with Balcony and Sea View,,Booking,,,,,,,,,A,,,4
+307,2868284584.0,,"Oksana Lychkova, Serhii Lychkov ",02.08.2021,07.08.2021,17.07.2021,Confirmed,,2,2.0,0.0,,262.4,,57.6,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+308,3231301160.0,,Carmen Hernandez ,05.08.2021,06.08.2021,29.07.2021,Arriving,,2,2.0,0.0,,52.48,,11.52,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+309,3720576773.0,,Onurhan Guner ,08.08.2021,10.08.2021,07.07.2021,Confirmed,,2,2.0,0.0,,88.56,,19.44,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+310,3044932517.0,,Audrey Dessiaume ,11.08.2021,12.08.2021,10.07.2021,Confirmed,,2,2.0,0.0,,36.08,,7.92,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+311,3604148605.0,,Jonathan Rocca ,12.08.2021,13.08.2021,18.07.2021,Arriving,,2,2.0,0.0,,40.18,,8.82,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+312,2937587746.0,,Tatiana Laurent ,17.08.2021,18.08.2021,06.07.2021,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+313,3556604767.0,,Олег Хряпа ,17.08.2021,22.08.2021,11.07.2021,Confirmed,,4,4.0,0.0,,282.9,,62.1,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+314,2695765214.0,,Larysa Semenko ,18.08.2021,26.08.2021,12.07.2021,Confirmed,,2,2.0,0.0,,321.44,,70.56,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+315,3705342084.0,,Kayhan Hodjat ,23.08.2021,25.08.2021,21.07.2021,Confirmed,,2,2.0,0.0,,72.16,,15.84,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+316,2708482829.0,,Diane Barreau ,26.08.2021,28.08.2021,10.07.2021,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+317,2232126962.0,,Maksym Nakonechnyi ,26.08.2021,02.09.2021,13.07.2021,Confirmed,,2,2.0,0.0,,248.46,,54.54,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+318,3433204391.0,,Vido Talijić ,28.08.2021,04.09.2021,11.07.2021,Confirmed,,2,2.0,0.0,,318.16,,69.84,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+319,2136710719.0,,Marina García Castillo ,30.08.2021,03.09.2021,19.07.2021,Confirmed,,2,2.0,0.0,,136.12,,29.88,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+320,2930418829.0,,Laura De Vocht ,02.09.2021,04.09.2021,06.07.2021,Confirmed,,2,2.0,0.0,,63.96,,14.04,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+321,3581874589.0,,Hanna Skorokhod ,09.09.2021,19.09.2021,08.07.2021,Confirmed,,2,2.0,0.0,,319.8,,70.2,,,Studio with Patio,,Booking,,,,,,,,,B,,,2
+322,2640498641.0,,Andrii Fedynyshyn ,11.09.2021,15.09.2021,14.07.2021,Confirmed,,2,2.0,0.0,,144.32,,31.68,,,Studio with Patio and Sea View,,Booking,,,,,,,,,C,,,2
+323,3232891945.0,,Merve Üner Şen ,17.09.2021,21.09.2021,25.07.2021,Confirmed,,2,2.0,0.0,,177.12,,38.88,,,One-Bedroom Apartment with Patio and Sea View,,Booking,,,,,,,,,D,,,4
+324,2906488360.0,,Phillip Ball ,19.05.2022,21.05.2022,17.02.2022,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+325,3777625256.0,,Cleo Rotunno ,17.06.2022,20.06.2022,03.03.2022,Confirmed,,2,2.0,0.0,,132.84,,29.16,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,,,,,,,,,A,,,4
+326,2936175841.0,,Emily Brown ,02.06.2022,05.06.2022,14.03.2022,Confirmed,,2,2.0,0.0,,132.84,,29.16,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+327,3212883028.0,,Hegedus Bercel Balazs ,29.06.2022,03.07.2022,23.03.2022,Confirmed,,2,2.0,0.0,,160.72,,35.28,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+328,3108247316.0,,Brian Stewart ,21.07.2022,25.07.2022,24.03.2022,Confirmed,,2,2.0,0.0,,226.32,,49.68,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+329,3532151522.0,,Kevin Zaragoza ,18.06.2022,19.06.2022,26.03.2022,Confirmed,,2,2.0,0.0,,36.08,,7.92,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+330,3696490722.0,,Veronika Kosmata ,24.05.2022,25.05.2022,30.03.2022,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+331,3527181508.0,,Guillaume Jobin ,27.05.2022,28.05.2022,03.04.2022,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+332,2799254617.0,,John Morgan ,31.07.2022,14.08.2022,04.04.2022,Confirmed,,2,2.0,0.0,,779.82,,171.18,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+333,2892041330.0,,Soós-Járfás Petra ,16.07.2022,23.07.2022,09.04.2022,Confirmed,,2,2.0,0.0,,375.56,,82.44,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,,,,,,,,,D,,,4
+334,3744652502.0,,David Blasch ,06.05.2022,07.05.2022,10.04.2022,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+335,3744634074.0,,Khouloud Tounsi ,02.06.2022,05.06.2022,10.04.2022,Confirmed,,2,2.0,0.0,,135.3,,29.7,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+336,3133609348.0,,Amela Ganević ,14.07.2022,21.07.2022,10.04.2022,Confirmed,,2,2.0,0.0,,367.36,,80.64,,,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,,,,,,,,,A,,,4
+337,2359400878.0,,Lisa Marie Wick ,13.06.2022,19.06.2022,11.04.2022,Confirmed,,2,2.0,0.0,,191.88,,42.12,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+338,3969827568.0,,Claudio Gomes ,14.06.2022,16.06.2022,12.04.2022,Confirmed,,2,2.0,0.0,,73.8,,16.2,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+339,2735070211.0,,Randa Elrefai ,27.07.2022,05.08.2022,12.04.2022,Cancelled,,2,2.0,0.0,,435.42,,95.58,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+340,3140759524.0,,Dimitar Karabahchiev ,14.05.2022,18.05.2022,15.04.2022,Confirmed,,2,2.0,0.0,,160.72,,35.28,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+341,2920961987.0,,Julie Kyte ,03.05.2022,05.05.2022,16.04.2022,Confirmed,,1,1.0,0.0,,80.36,,17.64,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+342,3780221223.0,,Sebastián Rincón ,21.06.2022,22.06.2022,18.04.2022,Confirmed,,2,2.0,0.0,,32.8,,7.2,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+343,3749194759.0,,Sek Teng Goh ,13.06.2022,15.06.2022,25.04.2022,Confirmed,,2,2.0,0.0,,90.2,,19.8,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+344,3952797885.0,,Kusljic Tijana ,01.05.2022,03.05.2022,26.04.2022,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+345,3820166423.0,,Arzan Dilek ,18.07.2022,22.07.2022,26.04.2022,Confirmed,,1,1.0,0.0,,151.7,,33.3,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+346,2270670894.0,,Henri Huuhko ,15.06.2022,18.06.2022,27.04.2022,Cancelled,,2,2.0,0.0,,135.3,,29.7,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+347,3326224982.0,,Cristina Saez Villanueva ,05.09.2022,10.09.2022,27.04.2022,Confirmed,,2,2.0,0.0,,205.0,,45.0,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+348,2754622468.0,,Momcilo Arambasic ,23.07.2022,30.07.2022,28.04.2022,Confirmed,,2,2.0,0.0,,287.0,,63.0,,,Studio with Patio,7.0,Booking,,,,,,,,,B,,,2
+349,3467223567.0,,Marc Tomas Rodo ,28.08.2022,02.09.2022,30.04.2022,Confirmed,,2,2.0,0.0,,180.4,,39.6,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+350,3086929427.0,,Henri Huuhko ,20.06.2022,22.06.2022,01.05.2022,Confirmed,,2,2.0,0.0,,90.2,,19.8,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+351,2199306885.0,,Daniela Moreno Tello ,21.06.2022,23.06.2022,01.05.2022,Confirmed,,2,2.0,0.0,,72.16,,15.84,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+352,2915283772.0,,James Barr ,10.07.2022,14.07.2022,02.05.2022,Confirmed,,2,2.0,0.0,,147.6,,32.4,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+353,2197349114.0,,Angel Cantera Ruiz ,15.08.2022,20.08.2022,03.05.2022,Confirmed,,2,2.0,0.0,,225.5,,49.5,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+354,2600268751.0,,Freek Van Den Ende ,20.08.2022,24.08.2022,05.05.2022,Confirmed,,2,2.0,0.0,,177.12,,38.88,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+355,2896899770.0,,Victor Mediavilla Santos ,15.06.2022,17.06.2022,06.05.2022,Confirmed,,2,2.0,0.0,,73.8,,16.2,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+356,2256619892.0,,Sebastien Bouring ,25.06.2022,26.06.2022,06.05.2022,Confirmed,,2,2.0,0.0,,36.08,,7.92,,,Studio with Patio and Sea View,9.0,Booking,,,,,,,,,C,,,2
+357,3506978869.0,,Selim Köksal ,22.06.2022,24.06.2022,07.05.2022,Confirmed,,2,2.0,0.0,,65.6,,14.4,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+358,3637195891.0,,Marie Merré ,15.05.2022,16.05.2022,07.05.2022,Confirmed,,2,2.0,0.0,,40.18,,8.82,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+359,2746955968.0,,Rebecca Miller ,09.09.2022,12.09.2022,09.05.2022,Confirmed,,3,3.0,0.0,,147.6,,32.4,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+360,3847268467.0,,Eduardo Garcia Torres ,02.07.2022,06.07.2022,10.05.2022,Confirmed,,2,2.0,0.0,,147.6,,32.4,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+361,3815278809.0,,Estelle Demphel ,15.08.2022,19.08.2022,11.05.2022,Confirmed,,2,2.0,0.0,,144.32,,31.68,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+362,3834641870.0,,Eann Doull ,08.09.2022,19.09.2022,11.05.2022,Confirmed,,2,2.0,0.0,,360.8,,79.2,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+363,2931585589.0,,Stefaan Van Bever ,08.06.2022,10.06.2022,13.05.2022,Confirmed,,2,2.0,0.0,,90.2,,19.8,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+364,2128831651.0,,Michał Kulig ,16.07.2022,21.07.2022,18.05.2022,Confirmed,,2,2.0,0.0,,184.5,,40.5,,,Studio with Patio,8.0,Booking,,,,,,,,,B,,,2
+365,3894131761.0,,Dimitris Argyros ,11.06.2022,13.06.2022,20.05.2022,Confirmed,,2,2.0,0.0,,90.2,,19.8,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+366,3705895403.0,,Haydar Dalkiran ,04.08.2022,08.08.2022,23.05.2022,Confirmed,,2,2.0,0.0,,229.6,,50.4,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+367,3678162739.0,,Zuoqiu Yu ,01.06.2022,03.06.2022,24.05.2022,Arriving,,2,2.0,0.0,,88.56,,19.44,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,,,,,,,,,D,,,4
+368,3669552047.0,,María Jesús Delgado ,25.07.2022,27.07.2022,24.05.2022,Confirmed,,2,2.0,0.0,,114.8,,25.2,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,,,,,,,,,A,,,4
+369,2765990756.0,,Riitta Varzeshkhah ,10.08.2022,14.08.2022,26.05.2022,Confirmed,,2,2.0,0.0,,148.42,,32.58,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+370,2626987354.0,,Maria Gisgaki ,11.06.2022,13.06.2022,27.05.2022,Arriving,,2,2.0,0.0,,65.6,,14.4,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+371,3010493932.0,,Rinor Recica ,03.06.2022,05.06.2022,28.05.2022,Confirmed,,2,2.0,0.0,,90.2,,19.8,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,,,,,,,,,D,,,4
+372,3494875475.0,,Serena Qin ,05.06.2022,07.06.2022,30.05.2022,Confirmed,,2,2.0,0.0,,63.96,,14.04,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+373,2884003258.0,,Paula Diez-Andino ,24.08.2022,27.08.2022,05.06.2022,Confirmed,,2,2.0,0.0,,110.7,,24.3,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+374,3488069170.0,,Χατζηπέτρος Chatzipetros ,19.06.2022,21.06.2022,10.06.2022,Arriving,,2,1.0,1.0,0,63.96,,14.04,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+375,2369504400.0,,Daliborka Zecevic ,25.06.2022,28.06.2022,11.06.2022,Arriving,,2,2.0,0.0,,95.94,,21.06,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+376,2686459322.0,,Matia Jovovic ,11.07.2022,13.07.2022,11.06.2022,Arriving,,2,2.0,0.0,,90.2,,19.8,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+377,2144458575.0,,Ouidad Elamrani ,20.08.2022,24.08.2022,16.06.2022,Confirmed,,2,2.0,0.0,,147.6,,32.4,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+378,3249462422.0,,An Kurochkina ,23.06.2022,25.06.2022,20.06.2022,Arriving,,2,2.0,0.0,,72.16,,15.84,,,Studio with Patio and Sea View,8.0,Booking,,,,,,,,,C,,,2
+379,3527613470.0,,Ivana Laškodyová ,07.07.2022,08.07.2022,19.06.2022,Arriving,,2,2.0,0.0,,53.3,,11.7,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+380,2703656690.0,,Adrian Kojder ,14.07.2022,16.07.2022,27.06.2022,Arriving,,2,2.0,0.0,,73.8,,16.2,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+381,3087068843.0,,Milena Tomic ,21.07.2022,23.07.2022,03.07.2022,Confirmed,,2,2.0,0.0,,80.36,,17.64,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+382,2175910000.0,,Olivia Flanagan ,19.08.2022,24.08.2022,11.07.2022,Arriving,,2,2.0,0.0,,184.5,,40.5,,,Studio with Patio,10.0,Booking,,,,,,,,,B,,,2
+383,3970623369.0,,Klara Larsson Niemi ,24.08.2022,27.08.2022,02.07.2022,Confirmed,,2,2.0,0.0,,132.84,,29.16,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+384,3441599315.0,,Mert Toker ,02.09.2022,07.09.2022,07.07.2022,Arriving,,2,2.0,0.0,,164.0,,36.0,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+385,2897130215.0,,Bert Salomon ,23.09.2022,26.09.2022,09.07.2022,Confirmed,,2,2.0,0.0,,101.4,,48.6,,,Studio with Patio and Sea View,0.0,Booking,,,,,,,,,C,,,2
+386,2918383892.0,,Francisco Fernandez Parcha ,20.09.2022,23.09.2022,21.08.2022,Arriving,,2,2.0,0.0,,147.6,,32.4,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+387,3410174307.0,,Julia Wisser ,26.09.2022,01.10.2022,27.08.2022,Confirmed,,2,2.0,0.0,,164.0,,36.0,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+388,3965650875.0,,Iryna Svistunova ,19.09.2022,22.09.2022,04.09.2022,Confirmed,,2,2.0,0.0,,95.94,,21.06,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+389,3473824160.0,,Anna Holzweber ,19.09.2022,21.09.2022,18.09.2022,Confirmed,,2,2.0,0.0,,65.6,,14.4,,,Studio with Patio,9.0,Booking,,,,,,,,,B,,,2
+390,2187141203.0,,Martin Becker ,21.09.2022,23.09.2022,19.09.2022,Arriving,,2,2.0,0.0,,65.6,,14.4,,,Studio with Patio,0.0,Booking,,,,,,,,,B,,,2
+391,2446909164.0,,Maggie Jarvis ,29.09.2022,01.10.2022,13.09.2022,Arriving,,2,2.0,0.0,,98.4,,21.6,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,,,,,,,,,A,,,4
+392,2374616608.0,De La Rosa Juan,Juan De La Rosa,17.04.2023,20.04.2023,03.01.2023,Cancelled,,2,2.0,0.0,,123.0,18.0,27.0,,,Studio with Patio and Sea View,0.0,Booking,+27 83 226 9181,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+393,2251062736.0,Cook Christopher,Christopher Cook,17.04.2023,21.04.2023,21.02.2023,Confirmed,,2,2.0,0.0,,200.08,18.0,43.92,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+49 170 5236337,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+394,2337695567.0,Cocco Silvia,Silvia Cocco,17.04.2023,19.04.2023,18.03.2023,Confirmed,,2,2.0,0.0,,85.28,18.0,18.72,,,Studio with Patio and Sea View,9.0,Booking,+31 31625642536,9.0,9.0,10.0,9.0,9.0,9.0,9.0,C,,,2
+395,3022962893.0,Abdin Aytaj,Kamal Omarov,18.04.2023,22.04.2023,17.02.2023,Confirmed,,2,2.0,0.0,,200.08,18.0,43.92,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,+33 6 43 39 11 81,8.0,8.0,0.0,8.0,8.0,8.0,8.0,A,,,4
+396,3726049369.0,Morris Craig,Craig Morris,20.04.2023,22.04.2023,26.02.2023,Confirmed,,2,2.0,0.0,,85.28,18.0,18.72,,,Studio with Patio and Sea View,10.0,Booking,+91 99563 58674,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+397,2592012844.0,Penker Christine,Christine Penker,21.04.2023,23.04.2023,19.04.2023,Confirmed,,2,2.0,0.0,,100.04,18.0,21.96,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+49 1577 2018127,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+398,2394215548.0,Tana Tana,Tana Tana,22.04.2023,25.04.2023,25.03.2023,Cancelled,,2,2.0,0.0,,145.14,18.0,31.86,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+44 7931 806900,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+399,3710716145.0,Sevinc Burkay,Burkay Sevinc,22.04.2023,25.04.2023,30.03.2023,Cancelled,,2,2.0,0.0,,145.14,18.0,31.86,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+90 544 270 86 82,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+400,2822521666.0,Wielgosz Michał,Michał Wielgosz,24.04.2023,26.04.2023,06.03.2023,Confirmed,,2,2.0,0.0,,100.04,18.0,21.96,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7445 054462,9.0,9.0,10.0,9.0,9.0,9.0,9.0,A,,,4
+401,3686954692.0,Kekeçoğlu Demet,Demet Kekeçoğlu,25.04.2023,28.04.2023,30.03.2023,Confirmed,,2,2.0,0.0,,127.92,18.0,28.08,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,+358 50 3834653,9.0,9.0,10.0,9.0,9.0,9.0,9.0,C,,,2
+402,2865220104.0,Viinikainen Hannaleena,Hannaleena Viinikainen,26.04.2023,30.04.2023,29.01.2023,Confirmed,,2,2.0,0.0,,200.08,18.0,43.92,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+33 6 19 84 55 20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+403,3718418080.0,Saario Anna,Anna Saario,26.04.2023,30.04.2023,30.01.2023,Confirmed,,2,2.0,0.0,,200.08,18.0,43.92,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+44 7563 612108,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+404,3114923972.0,Toonders Margreet,Margreet Toonders,28.04.2023,30.04.2023,25.03.2023,Confirmed,,2,2.0,0.0,,85.28,18.0,18.72,,,Studio with Patio and Sea View,8.0,Booking,+33 6 79 38 52 84,8.0,8.0,10.0,8.0,8.0,9.0,0.0,C,,,2
+405,2206155885.0,Warnes Indra,Indra Warnes,30.04.2023,03.05.2023,22.01.2023,Confirmed,,4,2.0,2.0,5;3,159.9,18.0,35.1,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+389 78 409 794,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+406,2542301357.0,Jones Martin,Martin Jones,30.04.2023,04.05.2023,04.02.2023,Confirmed,,2,2.0,0.0,,182.86,18.0,40.14,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,+49 1511 4141596,9.0,9.0,10.0,9.0,9.0,9.0,10.0,C,,,2
+407,2340202965.0,Larrinaga Maria Rosa,Maria Rosa Larrinaga,01.05.2023,07.05.2023,12.01.2023,Confirmed,,2,2.0,0.0,,329.64,18.0,72.36,,,One-Bedroom Apartment with Balcony and Sea View,6.0,Booking,+90 551 589 10 32,6.0,6.0,6.0,6.0,6.0,6.0,10.0,A,,,4
+408,2156550236.0,Lockton Catherine,Catherine Lockton,04.05.2023,07.05.2023,06.01.2023,Confirmed,,2,2.0,0.0,,164.82,18.0,36.18,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+33 6 84 27 85 92,9.0,9.0,9.0,9.0,9.0,9.0,10.0,D,,,4
+409,3269631363.0,Tütüncü Ayse Sema,,05.05.2023,08.05.2023,14.01.2023,Cancelled,,1,1.0,0.0,,135.3,18.0,29.7,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+44 7585 227036,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+410,3903489201.0,Cohen David,David Cohen,05.05.2023,08.05.2023,02.05.2023,Confirmed,,2,2.0,0.0,,140.22,18.0,30.78,Paid online,Card,Studio with Patio and Sea View,10.0,Booking,+49 176 32316351,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+411,2930122031.0,Newby Thomas,Thomas Newby,08.05.2023,10.05.2023,03.03.2023,Confirmed,,3,2.0,1.0,,109.88,18.0,24.12,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+44 7850 093592,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+412,2261391514.0,Fagel Caitlin,Caitlin Fagel,08.05.2023,10.05.2023,09.04.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio and Sea View,9.0,Booking,+33 6 38 51 92 40,9.0,9.0,9.0,9.0,9.0,9.0,10.0,C,,,2
+413,3042163947.0,Ojasalu Aivi,Aivi Ojasalu,09.05.2023,12.05.2023,29.01.2023,Confirmed,,2,2.0,0.0,,164.82,18.0,36.18,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+31 6 43643456,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+414,3588128746.0,Spence Steven,Steven Spence,12.05.2023,16.05.2023,25.01.2023,Confirmed,,1,1.0,0.0,,183.68,18.0,40.32,,Card,Studio with Patio and Sea View,10.0,Booking,+34 685 78 75 24,10.0,10.0,0.0,10.0,10.0,10.0,0.0,C,,,2
+415,3983824421.0,Ferguson Catherine,Catherine Ferguson,12.05.2023,16.05.2023,26.01.2023,Confirmed,,2,2.0,0.0,,219.76,18.0,48.24,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+44 7772 189814,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+416,3030426197.0,Meunzel Sophia,Sophia Meunzel,17.05.2023,22.05.2023,21.01.2023,Confirmed,,2,2.0,0.0,,233.7,18.0,51.3,,,Studio with Patio and Sea View,8.0,Booking,+49 1578 9134181,8.0,8.0,8.0,8.0,8.0,8.0,8.0,C,,,2
+417,3169681376.0,Forest Daniele,Daniele Forest,17.05.2023,19.05.2023,17.03.2023,Confirmed,,4,3.0,1.0,,109.88,18.0,24.12,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+45 51 88 03 34,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+418,2631476552.0,Cho Jeonwook,,18.05.2023,20.05.2023,16.01.2023,Cancelled,,2,2.0,0.0,,106.6,18.0,23.4,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+33 6 67 69 23 84,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+419,3887630784.0,Gray Joshua,Joshua Gray,18.05.2023,20.05.2023,16.03.2023,Confirmed,,2,2.0,0.0,,109.88,18.0,24.12,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,+33 6 71 87 34 09,8.0,8.0,10.0,8.0,8.0,8.0,8.0,A,,,4
+420,2655541070.0,Clancey Barbara,Barbara  Clancey,19.05.2023,26.05.2023,13.02.2023,Confirmed,,2,2.0,0.0,,384.58,18.0,84.42,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+44 7846 642165,9.0,9.0,10.0,9.0,9.0,9.0,9.0,D,,,4
+421,3582235222.0,De Vries Dinah,Dinah De Vries,22.05.2023,29.05.2023,28.01.2023,Confirmed,,2,2.0,0.0,,384.58,18.0,84.42,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+33 6 80 04 89 27,9.0,9.0,9.0,9.0,9.0,9.0,9.0,A,,,4
+422,3577072884.0,Matthews Ellen Rose,Ellen Rose Matthews,23.05.2023,25.05.2023,05.03.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio and Sea View,9.0,Booking,+31 6 48576518,9.0,9.0,9.0,9.0,9.0,9.0,9.0,C,,,2
+423,3635773816.0,Odling Louise,Louise Odling,28.05.2023,04.06.2023,11.01.2023,Confirmed,,1,1.0,0.0,,343.58,18.0,75.42,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,,9.0,9.0,9.0,9.0,9.0,9.0,9.0,C,,,2
+424,3610647031.0,Eriksson Uta,Uta Eriksson,30.05.2023,02.06.2023,10.01.2023,Cancelled,,2,2.0,0.0,,168.1,18.0,36.9,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+1 901-267-6089,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+425,3639722785.0,Eriksson Uta,Uta Eriksson,31.05.2023,03.06.2023,10.01.2023,Cancelled,,2,2.0,0.0,,176.3,18.0,38.7,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+31 6 30585740,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+426,2407715799.0,Schmidt Helmut,Helmut Schmidt,31.05.2023,02.06.2023,19.02.2023,Confirmed,,2,2.0,0.0,,118.08,18.0,25.92,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+44 7397 299786,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+427,3045342062.0,Van Gils Marinus,Marinus Van Gils,01.06.2023,03.06.2023,10.03.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio,10.0,Booking,+65 8322 4546,10.0,10.0,0.0,10.0,10.0,10.0,10.0,B,,,2
+428,3182061855.0,Frutos Miguel,Miguel Frutos,03.06.2023,06.06.2023,24.02.2023,Confirmed,,2,2.0,0.0,,189.42,18.0,41.58,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+33 6 30 69 74 95,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+429,2179789496.0,Silva Sérgio,Sérgio Silva,03.06.2023,05.06.2023,13.03.2023,Confirmed,,2,2.0,0.0,,126.28,18.0,27.72,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+45 28 12 00 74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+430,3712157404.0,Jeandel Romain,Romain Jeandel,03.06.2023,07.06.2023,17.04.2023,Confirmed,,2,2.0,0.0,,186.96,18.0,41.04,Paid online,Card,Studio with Patio,9.0,Booking,+33 6 15 14 30 23,9.0,9.0,9.0,9.0,9.0,9.0,9.0,B,,,2
+431,3127022720.0,Kozdereli Aslıhan,Aslıhan Kozdereli,04.06.2023,10.06.2023,19.02.2023,Cancelled,,2,2.0,0.0,,270.6,18.0,59.4,,,Studio with Patio,0.0,Booking,+33 6 43 07 72 59,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+432,3865034114.0,De Koeijer Martin,Martin De Koeijer,05.06.2023,13.06.2023,10.01.2023,Confirmed,,2,2.0,0.0,,432.96,18.0,95.04,,,Studio with Patio and Sea View,9.0,Booking,+61 450 059 972,9.0,9.0,9.0,9.0,9.0,9.0,9.0,C,,,2
+433,3505687104.0,Celik Gokcem,Kübra Çelen,05.06.2023,10.06.2023,05.02.2023,Confirmed,,3,2.0,1.0,,315.7,18.0,69.3,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,+33 6 25 40 95 86,8.0,8.0,8.0,8.0,8.0,8.0,8.0,D,,,4
+434,3721433590.0,Vuoriola Niko,Niko Vuoriola,07.06.2023,09.06.2023,30.05.2023,Confirmed,,2,2.0,0.0,,101.68,18.0,22.32,,,Studio with Patio,9.0,Booking,+374 94 987265,9.0,9.0,9.0,9.0,9.0,9.0,9.0,B,,,2
+435,2355587067.0,Nastopka Aidas,Aidas Nastopka,09.06.2023,12.06.2023,07.02.2023,Confirmed,,2,2.0,0.0,,189.42,18.0,41.58,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,7.0,Booking,+36 20 226 0548,7.0,7.0,10.0,7.0,7.0,7.0,10.0,A,,,4
+436,2767146130.0,Banks Louise,Louise Banks,10.06.2023,13.06.2023,07.03.2023,NoShow,,2,2.0,0.0,,135.3,18.0,29.7,,,Studio with Patio,0.0,Booking,+49 173 2422152,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+437,2191108330.0,Pitzalis Giulia,Giulia Pitzalis,12.06.2023,16.06.2023,14.01.2023,Cancelled,,2,2.0,0.0,,246.0,18.0,54.0,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+90 530 906 39 56,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+438,3026150080.0,Kaklewski Arkadiusz,Arkadiusz Kaklewski,12.06.2023,16.06.2023,22.01.2023,Cancelled,,2,2.0,0.0,,180.4,18.0,39.6,,,Studio with Patio,10.0,Booking,+33 6 46 46 90 37,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+439,3553402550.0,Luceno Carracedo Eduardo,Eduardo Luceno Carracedo,13.06.2023,15.06.2023,20.02.2023,Cancelled,,1,1.0,0.0,,104.96,18.0,23.04,,,Studio with Patio and Sea View,9.0,Booking,+32 471 81 12 37,9.0,9.0,9.0,9.0,9.0,9.0,0.0,C,,,2
+440,2228119068.0,Dutton Kathryn,Kathryn Dutton,13.06.2023,15.06.2023,17.03.2023,Cancelled,,2,2.0,0.0,,90.2,18.0,19.8,,,Studio with Patio,9.0,Booking,+46 73 030 98 81,0.0,9.0,10.0,9.0,9.0,9.0,9.0,B,,,2
+441,2387786908.0,Jevtic Zorana,Zorana Jevtic,14.06.2023,18.06.2023,19.05.2023,Confirmed,,2,2.0,0.0,,268.96,18.0,59.04,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7527 118185,9.0,9.0,10.0,9.0,9.0,9.0,9.0,A,,,4
+442,2463916775.0,Daniels Dylan,Dylan Daniels,15.06.2023,19.06.2023,08.01.2023,NoShow,,2,2.0,0.0,,209.92,18.0,46.08,,,Studio with Patio and Sea View,10.0,Booking,+33 6 67 75 95 22,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+443,3615290118.0,Stanzione Vitale,Vitale Stanzione,15.06.2023,17.06.2023,06.03.2023,Cancelled,,2,2.0,0.0,,90.2,18.0,19.8,,,Studio with Patio,0.0,Booking,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+444,2715904845.0,Akkaş Efe,Efe Akkaş,16.06.2023,19.06.2023,16.06.2023,Confirmed,,2,2.0,0.0,,162.36,18.0,35.64,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+358 40 0788414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+445,2394086652.0,Samuelson Catherine,Catherine Samuelson,18.06.2023,22.06.2023,23.01.2023,Confirmed,,3,1.0,2.0,2;6,252.56,18.0,55.44,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+49 173 8175938,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+446,3020439967.0,Chen Zhenkai,Zhenkai Chen,19.06.2023,20.06.2023,12.06.2023,Confirmed,,2,2.0,0.0,,59.04,18.0,12.96,,,Studio with Patio and Sea View,0.0,Booking,+61 422 014 620,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+447,2478867916.0,Moreira Da Costa Filho Marcelo,Marcelo Moreira Da Costa Filho,20.06.2023,22.06.2023,12.02.2023,Confirmed,,2,2.0,0.0,,108.24,18.0,23.76,,,Studio with Patio and Sea View,9.0,Booking,+44 7445 301777,9.0,9.0,10.0,9.0,9.0,9.0,9.0,C,,,2
+448,2834477711.0,Costante Michael,Michael Costante,20.06.2023,23.06.2023,05.03.2023,Confirmed,,2,2.0,0.0,,140.22,18.0,30.78,,Card,Studio with Patio,9.0,Booking,+44 7387 911012,9.0,9.0,10.0,9.0,9.0,9.0,10.0,B,,,2
+449,2781416031.0,Shimwell David,David Shimwell,21.06.2023,28.06.2023,30.01.2023,Cancelled,,2,2.0,0.0,,430.5,18.0,94.5,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+49 163 7390941,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+450,2703020589.0,Martynchenko Natalia,Natalia Martynchenko,21.06.2023,22.06.2023,12.06.2023,Confirmed,,2,2.0,0.0,,67.24,18.0,14.76,,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+65 8128 3882,9.0,9.0,10.0,9.0,9.0,9.0,10.0,D,,,4
+451,2323808172.0,Stortelder Anouk,Anouk Stortelder,22.06.2023,27.06.2023,17.01.2023,Confirmed,,2,2.0,0.0,,270.6,18.0,59.4,,Card,Studio with Patio and Sea View,9.0,Booking,+1 416-488-2093,9.0,9.0,10.0,9.0,9.0,9.0,10.0,C,,,2
+452,2462405088.0,Core Michel,Michel Core,22.06.2023,24.06.2023,26.03.2023,Confirmed,,2,2.0,0.0,,126.28,18.0,27.72,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7464 130875,9.0,9.0,10.0,9.0,9.0,9.0,10.0,A,,,4
+453,2790280561.0,Selwyn Louis,Louis Selwyn,23.06.2023,25.06.2023,28.01.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio,9.0,Booking,+353 86 845 8614,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+454,2174431055.0,Plchová Sylva,Sylva Plchová,24.06.2023,26.06.2023,04.03.2023,Confirmed,,2,2.0,0.0,,126.28,18.0,27.72,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+49 163 6353729,9.0,0.0,9.0,9.0,9.0,9.0,10.0,A,,,4
+455,2815396848.0,Tuck Robert,Robert Tuck,25.06.2023,28.06.2023,25.03.2023,Confirmed,,2,2.0,0.0,,140.22,18.0,30.78,,,Studio with Patio,10.0,Booking,+49 162 4953314,10.0,10.0,10.0,10.0,0.0,10.0,10.0,B,,,2
+456,3093589892.0,Anderton Nikki,Nikki Anderton,27.06.2023,01.07.2023,03.02.2023,Confirmed,,2,2.0,0.0,,252.56,18.0,55.44,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+32 488 44 49 10,9.0,9.0,9.0,9.0,9.0,0.0,9.0,A,,,4
+457,3896929927.0,Šteflová Martina,Martina Šteflová,27.06.2023,28.06.2023,14.06.2023,Confirmed,,2,2.0,0.0,,59.04,18.0,12.96,,,Studio with Patio and Sea View,9.0,Booking,+49 1511 8950502,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+458,2130202510.0,Sousa Juliana,Juliana Sousa,28.06.2023,30.06.2023,29.03.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio,9.0,Booking,+1 819-818-3002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+459,2686171348.0,Buch Daniel,Daniel Buch,28.06.2023,01.07.2023,11.05.2023,Confirmed,,2,2.0,0.0,,177.12,18.0,38.88,,,Studio with Patio and Sea View,9.0,Booking,+44 7743 252563,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+460,2710225901.0,Foley Sarah,Sarah Foley,29.06.2023,01.07.2023,13.03.2023,Cancelled,,2,2.0,0.0,,90.2,18.0,19.8,Paid online,Card,Studio with Patio,0.0,Booking,+32 497 80 54 29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+461,3145476393.0,Donsbach Andreas,Andreas Donsbach,01.07.2023,04.07.2023,21.01.2023,Confirmed,,2,2.0,0.0,,214.02,18.0,46.98,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+380 97 657 1919,9.0,9.0,10.0,9.0,9.0,9.0,9.0,A,,,4
+462,3429554839.0,Tomkinson Emma,Emma Tomkinson,01.07.2023,05.07.2023,17.04.2023,Confirmed,,2,2.0,0.0,,203.36,18.0,44.64,,,Studio with Patio,9.0,Booking,+44 7514 251101,9.0,9.0,10.0,9.0,9.0,9.0,9.0,B,,,2
+463,3911041228.0,Goldsbrough Charlotte,Charlotte Goldsbrough,02.07.2023,05.07.2023,07.01.2023,Cancelled,,2,2.0,0.0,,147.6,18.0,32.4,Paid online,Card,Studio with Patio,0.0,Booking,+381 60 0700147,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+464,2617182283.0,Scott Roger,Roger Scott,03.07.2023,08.07.2023,28.01.2023,NoShow,,1,1.0,0.0,,348.5,18.0,76.5,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+86 178 2423 7810,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+465,2665309053.0,Murray Samantha,Samantha Murray,05.07.2023,12.07.2023,07.01.2023,Confirmed,,2,2.0,0.0,,499.38,18.0,109.62,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+44 7880 618955,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+466,3739795212.0,Burkitt Stephen,Stephen Burkitt,07.07.2023,13.07.2023,15.01.2023,Cancelled,,2,2.0,0.0,,295.2,18.0,64.8,,,Studio with Patio,0.0,Booking,+44 7902 892430,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+467,3572358004.0,Koyuncu Yılmaz İrem,Reha Yılmaz,08.07.2023,13.07.2023,16.03.2023,Confirmed,,2,2.0,0.0,,254.2,18.0,55.8,,,Studio with Patio,7.0,Booking,+44 7391 733964,7.0,7.0,10.0,7.0,7.0,7.0,9.0,B,,,2
+468,3070915961.0,Bogdanova Elena,Elena Bogdanova,08.07.2023,12.07.2023,08.07.2023,Confirmed,,2,2.0,0.0,,285.36,18.0,62.64,,Card,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+972 58-444-7959,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+469,3615787400.0,Vasileva Anna,Anna Vasileva,08.07.2023,09.07.2023,08.07.2023,Confirmed,,2,2.0,0.0,,67.24,18.0,14.76,,,Studio with Patio and Sea View,9.0,Booking,+90 530 432 89 94,9.0,9.0,9.0,9.0,9.0,9.0,9.0,C,,,2
+470,3602489428.0,Väistö Matti,Matti Väistö,09.07.2023,12.07.2023,05.01.2023,Confirmed,,2,2.0,0.0,,177.12,18.0,38.88,,,Studio with Patio and Sea View,9.0,Booking,+48 883 601 717,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+471,2715475624.0,Capancioni Linda,Linda Capancioni,13.07.2023,16.07.2023,11.02.2023,Confirmed,,2,2.0,0.0,,152.52,18.0,33.48,Paid online,Card,Studio with Patio,10.0,Booking,+27 83 226 9181,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+472,3122460372.0,Relton Nicholas,Nicholas Relton,14.07.2023,21.07.2023,14.01.2023,Cancelled,,2,2.0,0.0,,487.9,18.0,107.1,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+49 170 5236337,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+473,3801083881.0,Falay Merve,Merve Falay,14.07.2023,15.07.2023,12.07.2023,Confirmed,,2,2.0,0.0,,67.24,18.0,14.76,Paid online,Card,Studio with Patio and Sea View,10.0,Booking,+31 31625642536,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+474,3152864389.0,Sun Shiting,Sun Shiting,15.07.2023,16.07.2023,15.07.2023,Confirmed,,1,1.0,0.0,,74.62,18.0,16.38,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+33 6 43 39 11 81,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+475,3651603083.0,Mollicone Jean-François,Jean-François Mollicone,16.07.2023,22.07.2023,19.01.2023,Cancelled,,2,2.0,0.0,,295.2,18.0,64.8,Paid online,Card,Studio with Patio,0.0,Booking,+91 99563 58674,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+476,3582257855.0,Messenger Holly,Holly Messenger,16.07.2023,19.07.2023,29.01.2023,Confirmed,,2,2.0,0.0,,152.52,18.0,33.48,Paid online,Card,Studio with Patio,7.0,Booking,+49 1577 2018127,7.0,7.0,10.0,7.0,7.0,7.0,7.0,B,,,2
+477,3320967660.0,Lambert Clara,Clara Lambert,17.07.2023,21.07.2023,26.06.2023,Confirmed,,4,2.0,2.0,4;5,301.76,18.0,66.24,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7931 806900,9.0,9.0,9.0,9.0,9.0,9.0,9.0,A,,,4
+478,2503057444.0,Ploeg Pascal,Pascal Ploeg,18.07.2023,21.07.2023,20.03.2023,Cancelled,,2,2.0,0.0,,172.2,18.0,37.8,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+90 544 270 86 82,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+479,2769778482.0,Rinde Kari Nitter Melheim,Kari Nitter Melheim  Rinde,21.07.2023,24.07.2023,16.03.2023,Confirmed,,2,2.0,0.0,,214.02,18.0,46.98,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+44 7445 054462,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+480,2317184625.0,Rutgers Afra,Afra Rutgers,22.07.2023,25.07.2023,07.06.2023,Cancelled,,2,2.0,0.0,,221.4,18.0,48.6,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+358 50 3834653,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+481,2670299023.0,Odonovan Sarah,Sarah Odonovan,22.07.2023,27.07.2023,16.01.2023,Confirmed,,2,2.0,0.0,,254.2,18.0,55.8,,,Studio with Patio,10.0,Booking,+33 6 19 84 55 20,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+482,3008655958.0,Pronina Anastasiia,Anastasiia Pronina,24.07.2023,25.07.2023,14.07.2023,Confirmed,,3,2.0,1.0,,75.44,18.0,16.56,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+44 7563 612108,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+483,3379662038.0,Özenir Eralp,Nur Çiçek Özenir,24.07.2023,25.07.2023,23.07.2023,Confirmed,,2,2.0,0.0,,79.54,18.0,17.46,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+33 6 79 38 52 84,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+484,2257591509.0,Yiğit Serdar,Serdar Yiğit,25.07.2023,26.07.2023,17.07.2023,Confirmed,,2,2.0,0.0,,67.24,18.0,14.76,,,Studio with Patio and Sea View,10.0,Booking,+389 78 409 794,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+485,3457058995.0,Slater Jonathan,Jonathan Slater,26.07.2023,29.07.2023,14.03.2023,Confirmed,,2,2.0,0.0,,177.12,18.0,38.88,,Card,Studio with Patio and Sea View,9.0,Booking,+49 1511 4141596,9.0,9.0,10.0,9.0,9.0,9.0,9.0,C,,,2
+486,2107673329.0,Hantusch Joachim,Joachim Hantusch,27.07.2023,31.07.2023,29.05.2023,Confirmed,,2,2.0,0.0,,203.36,18.0,44.64,,,Studio with Patio,9.0,Booking,+90 551 589 10 32,9.0,9.0,10.0,9.0,9.0,9.0,9.0,B,,,2
+487,3497298263.0,Madsen Hanne,Hanne Madsen,28.07.2023,01.08.2023,15.02.2023,Confirmed,,2,2.0,0.0,,285.36,18.0,62.64,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+33 6 84 27 85 92,9.0,9.0,10.0,9.0,9.0,9.0,10.0,A,,,4
+488,3984852431.0,Saeternes Silje,Silje Saeternes,28.07.2023,05.08.2023,29.01.2023,Cancelled,,2,2.0,0.0,,393.6,18.0,86.4,,Card,Studio with Patio,0.0,Booking,+44 7585 227036,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+489,3553902942.0,Ferst Devra,Devra Ferst,31.07.2023,03.08.2023,08.04.2023,Confirmed,,1,1.0,0.0,,150.06,18.0,32.94,,,Studio with Patio,8.0,Booking,+49 176 32316351,8.0,8.0,10.0,8.0,8.0,8.0,10.0,B,,,2
+490,2171171341.0,Baulard Léa,Léa Baulard,03.08.2023,04.08.2023,23.07.2023,Confirmed,,2,2.0,0.0,,67.24,18.0,14.76,,,Studio with Patio and Sea View,10.0,Booking,+44 7850 093592,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+491,2461253844.0,Bahat Tamir,Tamir Bahat,03.08.2023,07.08.2023,11.02.2023,Confirmed,,2,2.0,0.0,,285.36,18.0,62.64,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Booking,+33 6 38 51 92 40,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+492,3182981212.0,Bagdonas Rokas,Rokas Bagdonas,04.08.2023,05.08.2023,10.07.2023,Confirmed,,2,2.0,0.0,,79.54,18.0,17.46,,,One-Bedroom Apartment with Patio and Sea View,0.0,Booking,+31 6 43643456,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+493,3924662801.0,Englund Holm Linn,Linn Englund Holm,04.08.2023,08.08.2023,15.01.2023,Confirmed,,2,2.0,0.0,,236.16,18.0,51.84,,,Studio with Patio and Sea View,10.0,Booking,+34 685 78 75 24,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+494,2318039807.0,Botic Tatjana,Tatjana Botic,05.08.2023,12.08.2023,17.03.2023,Confirmed,,2,2.0,0.0,,355.88,18.0,78.12,,Card,Studio with Patio,9.0,Booking,+44 7772 189814,9.0,9.0,10.0,9.0,9.0,9.0,9.0,B,,,2
+495,3491805221.0,Zandvliet Merel,Merel Zandvliet,05.08.2023,11.08.2023,10.01.2023,Confirmed,,2,2.0,0.0,,428.04,18.0,93.96,,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+49 1578 9134181,9.0,9.0,10.0,9.0,9.0,9.0,9.0,D,,,4
+496,3733099273.0,De Palol Fariza Clàudia,Clàudia De Palol Fariza,07.08.2023,08.08.2023,31.07.2023,Confirmed,,2,2.0,0.0,,79.54,18.0,17.46,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+45 51 88 03 34,9.0,9.0,10.0,9.0,9.0,9.0,9.0,A,,,4
+497,2340714875.0,Ren Jing,Jing Ren,08.08.2023,09.08.2023,28.07.2023,Confirmed,,2,2.0,0.0,,67.24,18.0,14.76,,,Studio with Patio and Sea View,9.0,Booking,+33 6 67 69 23 84,9.0,9.0,10.0,9.0,9.0,9.0,10.0,C,,,2
+498,3289700409.0,Castanheira Tatiana,Tatiana Castanheira,08.08.2023,12.08.2023,08.01.2023,Cancelled,,2,2.0,0.0,,196.8,18.0,43.2,,,Studio with Patio,0.0,Booking,+33 6 71 87 34 09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+499,3433555279.0,Micu Liliana Ionela,Liliana Ionela Micu,08.08.2023,12.08.2023,14.02.2023,Confirmed,,2,2.0,0.0,,285.36,18.0,62.64,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7846 642165,9.0,9.0,10.0,9.0,9.0,9.0,9.0,A,,,4
+500,3978397349.0,Ahmad Milan,Milan Ahmad,09.08.2023,14.08.2023,08.02.2023,Confirmed,,2,2.0,0.0,,295.2,18.0,64.8,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,+33 6 80 04 89 27,9.0,9.0,9.0,9.0,9.0,9.0,10.0,C,,,2
+501,2408162470.0,Llanos Cristina,Cristina Llanos Fernández,11.08.2023,12.08.2023,08.07.2023,Confirmed,,3,2.0,1.0,,79.54,18.0,17.46,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+31 6 48576518,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+502,2872447611.0,Cogorno Michele,Michele Cogorno,12.08.2023,15.08.2023,20.02.2023,Cancelled,,2,2.0,0.0,,147.6,18.0,32.4,,,Studio with Patio,0.0,Booking,+358 40 7021751,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+503,3039549588.0,Van Vorsselen Courtney,Courtney Van Vorsselen,12.08.2023,15.08.2023,23.04.2023,Confirmed,,1,1.0,0.0,,150.06,18.0,32.94,Paid online,Card,Studio with Patio,10.0,Booking,+1 901-267-6089,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+504,2569659641.0,Akkaya Seda Tugce,Batur Akkaya,14.08.2023,19.08.2023,27.01.2023,Confirmed,,2,2.0,0.0,,356.7,18.0,78.3,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+31 6 30585740,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+505,3639709475.0,Wrobel Miroslaw,Miroslaw Wrobel,14.08.2023,28.08.2023,09.01.2023,Cancelled,,2,2.0,0.0,,975.8,18.0,214.2,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+44 7397 299786,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+506,3037475950.0,Eroğlu Mert Alper,Mert Alper Eroğlu,15.08.2023,22.08.2023,15.02.2023,Cancelled,,2,2.0,0.0,,401.8,18.0,88.2,,,Studio with Patio and Sea View,0.0,Booking,+65 8322 4546,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+507,3270900101.0,Ighil Ameur Lamine,Lamine Ighil Ameur,15.08.2023,19.08.2023,23.03.2023,Confirmed,,2,2.0,0.0,,203.36,18.0,44.64,,,Studio with Patio,10.0,Booking,+33 6 30 69 74 95,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+508,2463365682.0,Bodoyra Vittorio,Vittorio Bodoyra,16.08.2023,19.08.2023,01.03.2023,Confirmed,,2,2.0,0.0,,214.02,18.0,46.98,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+45 28 12 00 74,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+509,3633342958.0,Shahane Rhea,Rhea Shahane,16.08.2023,19.08.2023,20.03.2023,Cancelled,,2,2.0,0.0,,147.6,18.0,32.4,,,Studio with Patio,0.0,Booking,+33 6 15 14 30 23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+510,2383894256.0,Karadağ Turgut,Turgut Karadağ,18.08.2023,22.08.2023,12.01.2023,NoShow,,2,2.0,0.0,,196.8,18.0,43.2,,,Studio with Patio,0.0,Booking,+33 6 43 07 72 59,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+511,2166441120.0,Prouten Hannah,Hannah Prouten,19.08.2023,22.08.2023,06.02.2023,Cancelled,,2,2.0,0.0,,147.6,18.0,32.4,,,Studio with Patio,0.0,Booking,+61 450 059 972,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+512,3453231163.0,Samast İlknur,İlknur Samast,19.08.2023,20.08.2023,16.07.2023,Confirmed,,2,1.0,1.0,,75.44,18.0,16.56,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+374 94 987265,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+513,3584249316.0,Viajes Horizon,Silvia Esther Diez Rico,19.08.2023,20.08.2023,21.07.2023,Confirmed,,2,2.0,0.0,,59.04,18.0,12.96,,,Studio with Patio,10.0,Booking,+36 20 226 0548,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+514,2527792591.0,Kellner Natalie,Natalie Kellner,21.08.2023,23.08.2023,22.01.2023,Confirmed,,2,2.0,0.0,,141.31,18.0,31.02,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+49 173 2422152,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+515,2786581379.0,Öztürk Batuhan,Esma Öztürk,22.08.2023,25.08.2023,03.04.2023,Confirmed,,2,2.0,0.0,,152.52,18.0,33.48,,Card,Studio with Patio,10.0,Booking,+90 530 906 39 56,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+516,3733841026.0,Gallagher Olivia,Olivia Gallagher,23.08.2023,27.08.2023,25.02.2023,Cancelled,,2,2.0,0.0,,229.6,18.0,50.4,,,Studio with Patio and Sea View,0.0,Booking,+33 6 46 46 90 37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+517,3328958436.0,Heezen Guus,Guus Heezen,25.08.2023,30.08.2023,26.02.2023,Confirmed,,2,2.0,0.0,,254.2,18.0,55.8,,,Studio with Patio,10.0,Booking,+32 471 81 12 37,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+518,2175320356.0,Larsen Vivian,Christina Vivian Larsen,27.08.2023,03.09.2023,24.02.2023,Confirmed,,2,2.0,0.0,,482.98,18.0,106.02,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+46 73 030 98 81,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+519,3311865987.0,Medina Rodriguez Jose Ignacio,Jose Ignacio Medina Rodriguez,29.08.2023,01.09.2023,03.02.2023,Confirmed,,2,2.0,0.0,,177.12,18.0,38.88,Paid online,Card,Studio with Patio and Sea View,9.0,Booking,+33 6 67 75 95 22,9.0,9.0,9.0,9.0,9.0,9.0,9.0,C,,,2
+520,2907827599.0,Stuart Isabella,Isabella Stuart,30.08.2023,02.09.2023,15.02.2023,Confirmed,,2,2.0,0.0,,148.42,18.0,32.58,,,Studio with Patio,9.0,Booking,+33 6 68 57 28 56,9.0,9.0,9.0,9.0,9.0,9.0,9.0,B,,,2
+521,3341566615.0,Radosavljević Natalija,Natalija Radosavljević,01.09.2023,03.09.2023,16.07.2023,Cancelled,,2,2.0,0.0,,104.96,18.0,23.04,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+358 40 0788414,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+522,2352037261.0,Martzel Lauriane,Lauriane Martzel,02.09.2023,04.09.2023,07.03.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio,9.0,Booking,+49 173 8175938,9.0,9.0,9.0,9.0,9.0,9.0,9.0,B,,,2
+523,3725932354.0,Bennett Debra,Debra Bennett,03.09.2023,05.09.2023,06.03.2023,Confirmed,,1,1.0,0.0,,106.6,18.0,23.4,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+61 422 014 620,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+524,2585248605.0,Hall Janet,Janet And Alan Hall,04.09.2023,11.09.2023,04.01.2023,Confirmed,,2,2.0,0.0,,441.98,18.0,97.02,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+44 7445 301777,9.0,9.0,9.0,9.0,9.0,9.0,9.0,D,,,4
+525,3650679940.0,Lety Marla,Marla Lety,04.09.2023,06.09.2023,25.03.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,,,Studio with Patio,8.0,Booking,+44 7387 911012,8.0,8.0,8.0,8.0,8.0,8.0,8.0,B,,,2
+526,3223916857.0,Ostermeyer John,John Ostermeyer,05.09.2023,10.09.2023,30.01.2023,Confirmed,,2,2.0,0.0,,315.7,18.0,69.3,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+49 163 7390941,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+527,3561844245.0,Solari Juan Pablo,Juan Pablo Solari,05.09.2023,07.09.2023,18.04.2023,Confirmed,,2,2.0,0.0,,108.24,18.0,23.76,,,Studio with Patio and Sea View,10.0,Booking,+65 8128 3882,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+528,3796573169.0,Bastos Carreira João Maria,João Maria Bastos Carreira,06.09.2023,07.09.2023,26.08.2023,Confirmed,,2,2.0,0.0,,54.94,18.0,12.06,,Card,Studio with Patio,10.0,Booking,+1 416-488-2093,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+529,3127007429.0,Perez Linares Guillermo,Guillermo Perez Linares,07.09.2023,11.09.2023,19.02.2023,Cancelled,,2,2.0,0.0,,180.4,18.0,39.6,,,Studio with Patio,0.0,Booking,+44 7464 130875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+530,3270449518.0,Lewandowska Katarzyna,Katarzyna Lewandowska,07.09.2023,09.09.2023,13.03.2023,Confirmed,,2,2.0,0.0,,108.24,18.0,23.76,,,Studio with Patio and Sea View,10.0,Booking,+353 86 845 8614,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+531,3987667906.0,Sparks Jessica,Jessica Sparks,07.09.2023,11.09.2023,13.06.2023,Confirmed,,2,2.0,0.0,,186.96,18.0,41.04,,,Studio with Patio,10.0,Booking,+49 163 6353729,10.0,10.0,10.0,10.0,10.0,10.0,10.0,B,,,2
+532,3223825419.0,Kurán Eleonóra,Kurán Eleonóra,08.09.2023,17.09.2023,23.03.2023,Cancelled,,2,2.0,0.0,,405.9,18.0,89.1,,,Studio with Patio,0.0,Booking,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+533,2804269598.0,Müller Manfred,Manfred Müller,10.09.2023,13.09.2023,09.01.2023,Confirmed,,2,2.0,0.0,,189.42,18.0,41.58,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+32 488 44 49 10,9.0,9.0,10.0,9.0,9.0,9.0,10.0,A,,,4
+534,2438350371.0,Szeliga Mariola,Mariola Szeliga,11.09.2023,18.09.2023,01.07.2023,Confirmed,,2,2.0,0.0,,327.18,18.0,71.82,,Card,Studio with Patio,9.0,Booking,+49 1511 8950502,9.0,9.0,10.0,9.0,9.0,9.0,10.0,B,,,2
+535,2820875496.0,Brierley Gillian,Gillian Brierley,11.09.2023,18.09.2023,20.02.2023,Confirmed,,2,2.0,0.0,,441.98,18.0,97.02,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+1 819-818-3002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,D,,,4
+536,3875099528.0,De Jonge John,John De Jonge,11.09.2023,13.09.2023,06.06.2023,Confirmed,,2,2.0,0.0,,108.24,18.0,23.76,,,Studio with Patio and Sea View,9.0,Booking,+44 7743 252563,9.0,9.0,10.0,9.0,9.0,9.0,10.0,C,,,2
+537,3151800039.0,Hughes Mark,Mark Hughes,13.09.2023,16.09.2023,02.01.2023,Confirmed,,4,2.0,2.0,5;10,189.42,18.0,41.58,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+32 497 80 54 29,9.0,9.0,10.0,9.0,9.0,9.0,10.0,A,,,4
+538,2925600434.0,Hooper Suzanne,Suzanne Hooper,14.09.2023,16.09.2023,18.03.2023,Cancelled,,2,2.0,0.0,,90.2,18.0,19.8,,,Studio with Patio,0.0,Booking,+380 97 657 1919,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+539,3251175120.0,Scully Stephen,Stephen Scully,16.09.2023,22.09.2023,09.01.2023,Confirmed,,2,2.0,0.0,,378.84,18.0,83.16,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7514 251101,9.0,9.0,10.0,9.0,9.0,9.0,10.0,A,,,4
+540,2648864446.0,Stelzner Thomas,Thomas Stelzner,18.09.2023,23.09.2023,26.02.2023,Confirmed,,2,2.0,0.0,,270.6,18.0,59.4,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+381 60 0700147,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+541,3881038944.0,Yashno Meir,Meir Yashno,21.09.2023,24.09.2023,29.06.2023,Confirmed,,2,2.0,0.0,,140.22,18.0,30.78,,,Studio with Patio,9.0,Booking,+86 178 2423 7810,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+542,3410463493.0,Adams Deborah,Deborah Adams,22.09.2023,26.09.2023,27.02.2023,Confirmed,,2,2.0,0.0,,252.56,18.0,55.44,Paid online,Card,One-Bedroom Apartment with Balcony and Sea View,9.0,Booking,+44 7880 618955,9.0,9.0,9.0,9.0,9.0,9.0,10.0,A,,,4
+543,2741861131.0,Lawson Philip,Philip Lawson,24.09.2023,27.09.2023,02.04.2023,Confirmed,,2,2.0,0.0,,189.42,18.0,41.58,,,One-Bedroom Apartment with Patio and Sea View,9.0,Booking,+44 7902 892430,9.0,9.0,9.0,9.0,9.0,9.0,9.0,D,,,4
+544,2845285307.0,Hochheimer Alexander,Alexander Hochheimer,24.09.2023,26.09.2023,30.05.2023,Cancelled,,1,1.0,0.0,,104.96,18.0,23.04,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+44 7391 733964,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+545,2973913445.0,Postma Bobby,Bobby Postma,24.09.2023,01.10.2023,27.03.2023,NoShow,,2,2.0,0.0,,315.7,18.0,69.3,,,Studio with Patio,0.0,Booking,+972 58-444-7959,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+546,4044556600.0,Hure Claudio,Claudio Hure,26.09.2023,28.09.2023,04.09.2023,Confirmed,,2,2.0,0.0,,126.28,18.0,27.72,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Booking,+90 530 432 89 94,10.0,10.0,10.0,10.0,10.0,10.0,10.0,A,,,4
+547,2144389648.0,Reyes Nicole,Nicole Reyes,27.09.2023,01.10.2023,24.07.2023,Confirmed,,2,2.0,0.0,,186.96,18.0,41.04,,,Studio with Patio,10.0,Booking,+48 883 601 717,10.0,10.0,10.0,10.0,10.0,8.0,10.0,B,,,2
+548,3338312200.0,Paulus Ülo,Ülo Paulus,27.09.2023,29.09.2023,13.02.2023,Cancelled,,2,2.0,0.0,,104.96,18.0,23.04,,,Studio with Patio and Sea View,0.0,Booking,+380 97 657 1919,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+549,3505662592.0,Roberts-Clarke Sallie,Sallie Roberts-Clarke,28.09.2023,05.10.2023,05.02.2023,Confirmed,,4,1.0,3.0,7;2;2,409.18,18.0,89.82,Paid online,Card,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+44 7514 251101,10.0,10.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+550,2229792389.0,Hiver Claudia,,30.09.2023,02.10.2023,17.06.2023,Cancelled,,2,2.0,0.0,,97.58,18.0,21.42,Paid online,Card,Studio with Patio and Sea View,0.0,Booking,+381 60 0700147,0.0,0.0,0.0,0.0,0.0,0.0,0.0,C,,,2
+551,2116506285.0,Herr Reinhard Lochner,Herr Reinhard Lochner,04.10.2023,12.10.2023,06.07.2023,Cancelled,,2,2.0,0.0,,426.4,18.0,93.6,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+86 178 2423 7810,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+552,3866949626.0,Siu Spencer,Spencer Siu,04.10.2023,06.10.2023,25.02.2023,Confirmed,,2,2.0,0.0,,93.48,18.0,20.52,Paid online,Card,Studio with Patio and Sea View,10.0,Booking,+44 7880 618955,10.0,10.0,10.0,10.0,10.0,10.0,10.0,C,,,2
+553,3271337518.0,Umut Yılmaz,Yılmaz Umut,09.10.2023,13.10.2023,17.07.2023,Confirmed,,2,2.0,0.0,,186.96,18.0,41.04,,,Studio with Patio and Sea View,9.0,Booking,+44 7902 892430,9.0,9.0,9.0,9.0,9.0,9.0,9.0,C,,,2
+554,3888018994.0,Martínez Del Río María,,12.10.2023,14.10.2023,05.04.2023,Confirmed,,2,2.0,0.0,,109.88,18.0,24.12,,,One-Bedroom Apartment with Patio and Sea View,8.0,Booking,+44 7391 733964,8.0,8.0,8.0,8.0,8.0,8.0,10.0,D,,,4
+555,4256615523.0,Seyres Marie-Paule,Marie-Paule Seyres,14.10.2023,18.10.2023,10.09.2023,Cancelled,,2,2.0,0.0,,180.4,18.0,39.6,,Card,Studio with Patio,0.0,Booking,+972 58-444-7959,0.0,0.0,0.0,0.0,0.0,0.0,0.0,B,,,2
+556,2940246879.0,Yap Siew Leng,Siew Leng Yap,17.10.2023,20.10.2023,24.03.2023,Confirmed,,4,2.0,2.0,0;2,164.82,18.0,36.18,,,One-Bedroom Apartment with Patio and Sea View,10.0,Booking,+90 530 432 89 94,10.0,8.0,10.0,10.0,10.0,10.0,10.0,D,,,4
+557,4013896276.0,Wadsworth Amy,Amy Wadsworth,22.10.2023,26.10.2023,13.09.2023,Confirmed,,1,1.0,0.0,,216.48,18.0,47.52,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Booking,+48 883 601 717,0.0,0.0,0.0,0.0,0.0,0.0,0.0,A,,,4
+558,HMAMP59PS4,,Youstina Daoud,03.06.2019,05.06.2019,30.03.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,2.0,63.9,2
+559,HMAMHWYDSW,,Kristina Holm Jensen,05.06.2019,07.06.2019,05.05.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,8.0,Airbnb,,,,,,,,,B,2.0,63.9,2
+560,HMAC8EWZ3P,,Ã–Znur Balaban,08.06.2019,09.06.2019,09.04.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,31.95,2
+561,HMANF23QWC,,Steve Qj,10.06.2019,11.06.2019,01.06.2019,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,32.95,2
+562,HMACJE5D9D,,Quinten Spakman,13.06.2019,15.06.2019,04.05.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,7.0,Airbnb,,,,,,,,,B,2.0,63.9,2
+563,HMAANWWMXF,,Ðœð¸Ñ…Ð°Ð¸Ð» Ðšð¾Ð´Ð¾Ð»Ð¾Ð²,16.06.2019,20.06.2019,01.05.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,10.0,Airbnb,,,,,,,,,B,4.0,127.8,2
+564,HMANM3BZNK,,Egor Zhidkov,20.06.2019,22.06.2019,28.03.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,2.0,63.9,2
+565,HMAFYDXSP2,,Darren Millett,13.07.2019,14.07.2019,24.05.2019,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio,8.0,Airbnb,,,,,,,,,B,1.0,42.65,2
+566,HMANPWZFK8,,Maurizio Biasin,15.07.2019,16.07.2019,07.05.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,9.0,Airbnb,,,,,,,,,B,1.0,41.65,2
+567,HMAEK4WZXE,,Marion Collin,07.08.2019,12.08.2019,02.06.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,5.0,217.95,2
+568,HMAK423J94,,Cã©Dric Evain,12.08.2019,15.08.2019,04.06.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,3.0,130.77,2
+569,HMAF52YNQJ,,Michael Ernst,21.08.2019,22.08.2019,12.07.2019,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,42.65,2
+570,HMABPFJMSS,,Louise Morgan,22.08.2019,25.08.2019,27.05.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,9.0,Airbnb,,,,,,,,,B,3.0,124.95,2
+571,HMAF4Y8D8Z,,Vitali Weizel,25.08.2019,27.08.2019,09.06.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,2.0,83.3,2
+572,HMANBJE25C,,Manon Pelca,29.08.2019,02.09.2019,30.06.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,10.0,Airbnb,,,,,,,,,B,4.0,156.9,2
+573,HMAHYTM5BE,,Don Loh,02.09.2019,03.09.2019,17.08.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,31.95,2
+574,HMABH9P4XM,,Nathalia Lara,08.09.2019,09.09.2019,30.07.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,6.0,Airbnb,,,,,,,,,B,1.0,31.95,2
+575,HMAQTTMMNJ,,Janie Macpherson,18.09.2019,23.09.2019,02.05.2019,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,5.0,164.75,2
+576,HMAJXNJHWX,,Georges Paslier,24.09.2019,26.09.2019,19.06.2019,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,2.0,63.9,2
+577,HMTZSQP8RH,,Shaylynn Jaimie,21.07.2020,22.07.2020,14.01.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,9.0,Airbnb,,,,,,,,,B,1.0,41.65,2
+578,HMA2W5RWEW,,Aamir Khan,26.06.2020,27.06.2020,21.01.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,31.95,2
+579,HMNCPSDN85,,Dora Barczy,22.06.2020,25.06.2020,29.01.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,3.0,95.85,2
+580,HMSX2XZYJP,,Jack Surgey,11.08.2020,12.08.2020,31.01.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,9.0,Airbnb,,,,,,,,,B,1.0,44.56,2
+581,HM2W9FZH4D,,Jeremi Simoes Gil,13.07.2020,17.07.2020,01.02.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,8.0,Airbnb,,,,,,,,,B,4.0,166.6,2
+582,HMDRCFT8FK,,Lucas Haitsma,25.08.2020,26.08.2020,08.03.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,41.65,2
+583,HMZ2M9EKKE,,Pam Hayward,08.07.2021,11.07.2021,28.10.2020,Arriving,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,3.0,88.09,2
+584,HMCS5YZ32C,,Marie Thomas,10.08.2021,11.08.2021,14.05.2021,Arriving,,2,2.0,0.0,,,,,,,Studio with Patio,8.0,Airbnb,,,,,,,,,B,1.0,36.8,2
+585,HMHRYN3F33,,Bernard Leocat,02.06.2021,03.06.2021,18.05.2021,Arriving,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,1.0,25.96,2
+586,HM92T28999,,Андрій Щур,07.07.2021,15.07.2021,08.06.2021,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,,,,,,,,,B,8.0,247.84,2
+587,HMTDN4C2P5,,Maksym Podgayskyy,27.06.2021,28.06.2021,17.06.2021,Arriving,,1,1.0,0.0,,,,,,,Studio with Patio,7.0,Airbnb,,,,,,,,,B,1.0,27.13,2
+588,HM8B28DTWD,,Pam Hayward,27.06.2022,29.06.2022,28.10.2020,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,+27 83 226 9181,,,,,,,,B,2.0,357.5,2
+589,HMFPRXB5Y5,,Jacques Rall,13.06.2022,15.06.2022,09.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+49 170 5236337,,,,,,,,A,2.0,219.65,4
+590,HMBPTJDCHT,,Wander Engbers,24.07.2022,26.07.2022,10.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,9.0,Airbnb,+31 31625642536,,,,,,,,C,2.0,82.76,2
+591,HMRE38CFN8,,Christophe Loyer,21.06.2022,25.06.2022,13.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 43 39 11 81,,,,,,,,D,4.0,78.76,4
+592,HMEWN8KJWY,,Rishabh Gupta,06.06.2022,08.06.2022,14.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+91 99563 58674,,,,,,,,C,2.0,208.08,2
+593,HMKSZYHAKT,,Darius Kurt,26.06.2022,29.06.2022,15.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+49 1577 2018127,,,,,,,,C,3.0,259.1,2
+594,HM38KMKBH3,,Rochyne Delaney Mcnulty,25.06.2022,07.07.2022,15.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Airbnb,+44 7931 806900,,,,,,,,A,12.0,192.9,4
+595,HMQZAQHM55,,Ezgi Yä±Lmaz,05.07.2022,09.07.2022,16.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+90 544 270 86 82,,,,,,,,D,4.0,204.08,4
+596,HMTKM8W25E,,Kati Pã¶Llã¤Nen,20.07.2022,22.07.2022,20.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+358 50 3834653,,,,,,,,C,2.0,371.96,2
+597,HMJQK2HWSE,,Gilles Cassou,12.07.2022,16.07.2022,22.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 19 84 55 20,,,,,,,,D,4.0,96.11,4
+598,HMD2RRDPM5,,Issy Powell,06.07.2022,11.07.2022,23.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7563 612108,,,,,,,,C,5.0,568.41,2
+599,HM4FQHK5HS,,Antoine Pouille,11.06.2022,13.06.2022,23.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.0,Airbnb,+33 6 79 38 52 84,,,,,,,,C,2.0,169.52,2
+600,HMWCQZMFWX,,Bojan Panchevski,06.08.2022,14.08.2022,24.04.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+389 78 409 794,,,,,,,,C,8.0,88.11,2
+601,HMC5NDKYZQ,,Kai Goretzki,09.07.2022,14.07.2022,25.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Airbnb,+49 1511 4141596,,,,,,,,A,5.0,76.76,4
+602,HMS4CRB244,,Melahat Ã–Zlã¼,09.06.2022,12.06.2022,25.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+90 551 589 10 32,,,,,,,,A,3.0,63.41,4
+603,HMX2EXERWF,,Marie Cã©Cile Eccleston,11.05.2022,13.05.2022,25.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 84 27 85 92,,,,,,,,D,2.0,126.14,4
+604,HM8JNH5EAW,,Olivia Baker,26.06.2022,04.07.2022,26.04.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+44 7585 227036,,,,,,,,D,8.0,53.41,4
+605,HMNZQB4AAD,,Katharina Pokid,03.06.2022,05.06.2022,26.04.2022,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+49 176 32316351,,,,,,,,C,2.0,84.75,2
+606,HMC3343M4S,,Sean Harkin,05.06.2022,07.06.2022,28.04.2022,Confirmed,,1,1.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+44 7850 093592,,,,,,,,A,2.0,67.41,4
+607,HMQHQEZXEW,,Maxime Dumont,19.06.2022,22.06.2022,01.05.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+33 6 38 51 92 40,,,,,,,,C,3.0,71.12,2
+608,HMAQZ59MFR,,Michelle Schouten,18.08.2022,23.08.2022,03.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+31 6 43643456,,,,,,,,D,5.0,255.1,4
+609,HMKY9EF9ST,,Luna Orellana Molina,29.05.2022,01.06.2022,03.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+34 685 78 75 24,,,,,,,,D,3.0,109.68,4
+610,HMA9WQF5ZW,,Jan Du Toit,22.05.2022,24.05.2022,03.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.0,Airbnb,+44 7772 189814,,,,,,,,D,2.0,73.12,4
+611,HMMCK43KJM,,Muriel Reichmann,24.07.2022,27.07.2022,06.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,10.0,Airbnb,+49 1578 9134181,,,,,,,,D,3.0,164.63,4
+612,HMZBP2MKYR,,Ejnar Hvidsten,15.08.2022,20.08.2022,07.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Airbnb,+45 51 88 03 34,,,,,,,,A,5.0,105.68,4
+613,HMWS2QXFZ8,,Maã«Lle Bozouklian,11.08.2022,15.08.2022,08.05.2022,Confirmed,,1,1.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 67 69 23 84,,,,,,,,D,4.0,208.08,4
+614,HMQR9D8FFR,,Inãªs Soldado,31.07.2022,02.08.2022,08.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 71 87 34 09,,,,,,,,D,2.0,73.12,4
+615,HMF85JD9FJ,,Joseph Murphy,05.06.2022,08.06.2022,10.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+44 7846 642165,,,,,,,,D,3.0,124.14,4
+616,HMYK4KFAHD,,Delphine Julien,10.07.2022,12.07.2022,10.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 80 04 89 27,,,,,,,,D,2.0,102.04,4
+617,HME2RTNRKM,,Olav Hoekstra,06.07.2022,10.07.2022,12.05.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,+31 6 48576518,,,,,,,,B,4.0,128.89,2
+618,HM3K5XR2XZ,,Saara Ruohola,15.08.2022,18.08.2022,14.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+358 40 7021751,,,,,,,,D,3.0,153.06,4
+619,HM9PS3YNZC,,Catherine Bailey,19.06.2022,21.06.2022,16.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+1 901-267-6089,,,,,,,,D,2.0,82.76,4
+620,HMQAMR845F,,Judith Klein Gunnewiek,23.08.2022,26.08.2022,17.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+31 6 30585740,,,,,,,,D,3.0,153.06,4
+621,HMJYBTKZRS,,Donatella Fontana,09.06.2022,11.06.2022,20.05.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7397 299786,,,,,,,,C,2.0,65.41,2
+622,HM2T59HQK5,,Cherie Lee,14.09.2022,16.09.2022,23.05.2022,Confirmed,,1,1.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+65 8322 4546,,,,,,,,A,2.0,92.47,4
+623,HMQ2PQC5NC,,Sarah Boudinar,13.09.2022,20.09.2022,24.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 30 69 74 95,,,,,,,,D,7.0,316.65,4
+624,HM3WRSTQ2A,,Laura Friestrup-Jensen,23.06.2022,25.06.2022,26.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+45 28 12 00 74,,,,,,,,A,2.0,82.76,4
+625,HMTJ24NN9A,,Christian Husser,03.07.2022,06.07.2022,27.05.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+33 6 15 14 30 23,,,,,,,,C,3.0,124.14,2
+626,HM8QEMQTPA,,Victor Fenez,22.08.2022,25.08.2022,29.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Airbnb,+33 6 43 07 72 59,,,,,,,,A,3.0,63.41,4
+627,HMSQYYXRDZ,,Amy Rettenwender,27.08.2022,30.08.2022,31.05.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+61 450 059 972,,,,,,,,C,3.0,124.14,2
+628,HMYE5BN3J3,,Camille Berland,28.06.2022,30.06.2022,31.05.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,7.0,Airbnb,+33 6 25 40 95 86,,,,,,,,B,2.0,82.75,2
+629,HMM84FTBD8,,Gor Badalyan,08.06.2022,10.06.2022,31.05.2022,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio,0.0,Airbnb,+374 94 987265,,,,,,,,B,2.0,67.41,2
+630,HMEQP9SB9Z,,Matyas Eckl,22.07.2022,24.07.2022,05.06.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+36 20 226 0548,,,,,,,,C,2.0,65.41,2
+631,HMM58XHA48,,Brianna Novak,25.08.2022,29.08.2022,08.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+49 173 2422152,,,,,,,,A,4.0,59.48,4
+632,HM8JPNW9XX,,Mert Gokce Mutaf,08.08.2022,11.08.2022,22.05.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+90 530 906 39 56,,,,,,,,D,3.0,98.11,4
+633,HMBZXB52XZ,,Cyril Migeon,27.08.2022,04.09.2022,09.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+33 6 46 46 90 37,,,,,,,,D,8.0,78.47,4
+634,HMSPEHDQAT,,Louise Rousseau,03.08.2022,07.08.2022,11.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+32 471 81 12 37,,,,,,,,D,4.0,220.92,4
+635,HMMFY4BFST,,Rebecca Eriksson,16.06.2022,18.06.2022,14.06.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+46 73 030 98 81,,,,,,,,C,2.0,82.76,2
+636,HMMDE3TKEY,,Robyn Danby,05.09.2022,08.09.2022,17.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.0,Airbnb,+44 7527 118185,,,,,,,,D,3.0,63.84,4
+637,HMZ33EAW3E,,Nathalia Luque Junco,20.09.2022,23.09.2022,18.06.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+33 6 67 75 95 22,,,,,,,,C,3.0,110.4,2
+638,HMHWJJZPRK,,Louis Blasselle,03.09.2022,06.09.2022,19.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.0,Airbnb,+33 6 68 57 28 56,,,,,,,,A,3.0,136.59,4
+639,HMJBMJDYRM,,Jenny Hietala,27.07.2022,30.07.2022,19.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+358 40 0788414,,,,,,,,D,3.0,165.69,4
+640,HMS9RPKT2D,,Janina Mã¼Ssle,25.07.2022,27.07.2022,21.06.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+49 173 8175938,,,,,,,,A,2.0,108.52,4
+641,HMQPCMA4XH,,Cecilia Regan,01.09.2022,03.09.2022,26.06.2022,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+61 422 014 620,,,,,,,,C,2.0,75.6,2
+642,HMTJ44HWZA,,Christine Scheer,03.09.2022,05.09.2022,04.07.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7445 301777,,,,,,,,C,2.0,73.6,2
+643,HM9WEMMMWE,,Renata Yong,10.09.2022,14.09.2022,11.07.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7387 911012,,,,,,,,C,4.0,147.2,2
+644,HM98CR422S,,Ninetta Zeuner,31.08.2022,03.09.2022,12.07.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+49 163 7390941,,,,,,,,A,3.0,142.41,4
+645,HMJAE55C24,,Stephanie Quek,16.09.2022,18.09.2022,14.07.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+65 8128 3882,,,,,,,,C,2.0,73.6,2
+646,HMB42MQZZR,,Oleg Maryevych,08.09.2022,11.09.2022,16.07.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,10.0,Airbnb,+1 416-488-2093,,,,,,,,A,3.0,136.59,4
+647,HMQK92QNTZ,,Sibyl Toth,29.08.2022,31.08.2022,20.07.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Airbnb,+44 7464 130875,,,,,,,,A,2.0,112.4,4
+648,HMJ8Z3KYTB,,Cormac Halley,24.09.2022,29.09.2022,22.07.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+353 86 845 8614,,,,,,,,A,5.0,227.65,4
+649,HMMNF3ZKTS,,Marcel Hinss,26.09.2022,29.09.2022,29.07.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+49 163 6353729,,,,,,,,C,3.0,110.4,2
+650,HMSHQYWWPX,,Niclas Krembsler,20.09.2022,25.09.2022,03.08.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+49 162 4953314,,,,,,,,D,5.0,227.65,4
+651,HMRX5JDPRT,,Cã©Line Mailliard,29.09.2022,01.10.2022,08.08.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+32 488 44 49 10,,,,,,,,D,2.0,91.06,4
+652,HMBRAWYAKT,,Ulrike Mclernon,14.09.2022,16.09.2022,13.08.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+49 1511 8950502,,,,,,,,C,2.0,73.6,2
+653,HMCXC5XP8J,,Pierre Lã©Vesque,30.08.2022,01.09.2022,14.08.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+1 819-818-3002,,,,,,,,C,2.0,83.3,2
+654,HMT3XASPW5,,Angela Franklin,03.10.2022,09.10.2022,21.08.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,7.0,Airbnb,+44 7743 252563,,,,,,,,D,6.0,244.08,4
+655,HMN23AHSKJ,,Mathieu Vnthn,13.09.2022,16.09.2022,22.08.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+32 497 80 54 29,,,,,,,,A,3.0,136.59,4
+656,HMEAKEXXW5,,Daria Pokosenko,10.10.2022,12.10.2022,02.09.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+380 97 657 1919,,,,,,,,C,2.0,63.9,2
+657,HMN9QZKY32,,Ya Wen,06.09.2022,08.09.2022,04.09.2022,Confirmed,,1,1.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+44 7514 251101,,,,,,,,A,2.0,85.3,4
+658,HMN4MHXWZP,,Nina Bogojevic,06.10.2022,10.10.2022,07.09.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+381 60 0700147,,,,,,,,A,4.0,162.72,4
+659,HMY5FBYPNW,,Stella Ç”¨Æˆ·,11.09.2022,13.09.2022,09.09.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,0.0,Airbnb,+86 178 2423 7810,,,,,,,,A,2.0,91.06,4
+660,HMEMY4A4CM,,Jake Stead,16.09.2022,20.09.2022,10.09.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7880 618955,,,,,,,,C,4.0,147.2,2
+661,HMR8DBBH2J,,Sebastian Kolesnik,01.10.2022,04.10.2022,11.09.2022,Confirmed,,1,1.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7902 892430,,,,,,,,C,3.0,98.85,2
+662,HMX9KZXWWS,,Sawan Shah,07.10.2022,10.10.2022,12.09.2022,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7391 733964,,,,,,,,C,3.0,95.85,2
+663,HMA2S8MTHY,,Tomer Patito,03.10.2022,05.10.2022,19.09.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,8.0,Airbnb,+972 58-444-7959,,,,,,,,A,2.0,81.36,4
+664,HM8FMXPPJJ,,Arev Demirci,25.09.2022,27.09.2022,20.09.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+90 530 432 89 94,,,,,,,,D,2.0,91.06,4
+665,HMY5K2PWY8,,Norbert Å»Yszkiewicz,27.09.2022,29.09.2022,22.09.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,0.0,Airbnb,+48 883 601 717,,,,,,,,D,2.0,91.06,4
+666,HMBTSBBDSD,,Lena Kanza,18.09.2023,23.09.2023,26.04.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.4,Airbnb,+49 176 78191494,,,,,,,,D,5.0,298.48,4
+667,HMQN3DACRZ,,Bruno Crupelandt,19.09.2023,21.09.2023,23.07.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,8.8,Airbnb,+33 6 72 51 81 97,,,,,,,,B,2.0,87.18,2
+668,HMBC32W5AC,,Veronica Mercado,15.09.2023,17.09.2023,14.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.5,Airbnb,+61 421 135 563,,,,,,,,C,2.0,100.11,2
+669,HM2XWX4HCF,,Dorothea Wolf,13.09.2023,15.09.2023,22.01.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.3,Airbnb,+49 179 7261589,,,,,,,,C,2.0,100.11,2
+670,HMCR589P4K,,Jamie Carry,03.09.2023,05.09.2023,19.07.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.7,Airbnb,+32 488 44 49 10,,,,,,,,A,2.0,120.16,4
+671,HMTDHS9BFA,,Elena Sandmann,02.09.2023,04.09.2023,20.04.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,9.9,Airbnb,+49 1511 8950502,,,,,,,,D,2.0,120.16,4
+672,HM8F8KPQSX,,Ecenur Elmas,01.09.2023,03.09.2023,08.08.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.7,Airbnb,+1 819-818-3002,,,,,,,,C,2.0,100.76,2
+673,HMW25FE9WD,,Katja Mériau,31.08.2023,02.09.2023,27.08.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,7.1,Airbnb,+44 7743 252563,,,,,,,,D,2.0,125.98,4
+674,HMKNC58THX,,Burak Karaoğlan,28.08.2023,30.08.2023,24.08.2023,Confirmed,,2,1.0,1.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,9.9,Airbnb,+32 497 80 54 29,,,,,,,,D,2.0,131.8,4
+675,HM8ZC3ABYR,,Laureline Prigent,27.08.2023,29.08.2023,02.07.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,7.6,Airbnb,+380 97 657 1919,,,,,,,,C,2.0,112.4,2
+676,HMCASFRTEE,,Rosa Wortelboer,26.08.2023,28.08.2023,24.08.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,7.2,Airbnb,+44 7514 251101,,,,,,,,D,2.0,131.8,4
+677,HMCPYRWC84,,Halil Ergül,25.08.2023,27.08.2023,28.06.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,8.2,Airbnb,+381 60 0700147,,,,,,,,A,2.0,131.8,4
+678,HMYYTZFR5F,,Ilse Selten,25.08.2023,27.08.2023,08.04.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,7.4,Airbnb,+86 178 2423 7810,,,,,,,,C,2.0,112.4,2
+679,HM9N3MMYS9,,Ana De La Fuente Rodriguez,24.08.2023,26.08.2023,22.08.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.6,Airbnb,+44 7880 618955,,,,,,,,D,2.0,131.8,4
+680,HMP3K8QSK5,,Céline Bouvet,22.08.2023,24.08.2023,03.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,9.7,Airbnb,+44 7391 733964,,,,,,,,C,2.0,111.68,2
+681,HMA252XTRX,,Bethany Cotter,20.08.2023,22.08.2023,10.08.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,7.1,Airbnb,+972 58-444-7959,,,,,,,,B,2.0,93.0,2
+682,HMWNTZDDDP,,Laura Libreiha,20.08.2023,22.08.2023,30.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,9.0,Airbnb,+90 530 432 89 94,,,,,,,,C,2.0,111.68,2
+683,HMFSFCPCF3,,Ettore Celentano,19.08.2023,21.08.2023,23.06.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,7.1,Airbnb,+48 883 601 717,,,,,,,,D,2.0,131.8,4
+684,HMYJNC55ZS,,Luis Martins,18.08.2023,20.08.2023,14.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.5,Airbnb,+380 97 657 1919,,,,,,,,C,2.0,111.68,2
+685,HMTY8PNB9J,,Elisa Dellarossa,16.08.2023,18.08.2023,25.06.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.2,Airbnb,+44 7514 251101,,,,,,,,C,2.0,112.4,2
+686,HMD55NAFYE,,Laura Christol,14.08.2023,16.08.2023,30.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.4,Airbnb,+381 60 0700147,,,,,,,,C,2.0,111.68,2
+687,HMFE4FR8E4,,Mickaël Lazzarotto,12.08.2023,15.08.2023,04.02.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,9.6,Airbnb,+86 178 2423 7810,,,,,,,,D,3.0,196.44,4
+688,HMFNJ2YEHB,,Aude Delahaye,12.08.2023,14.08.2023,16.04.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.3,Airbnb,+44 7880 618955,,,,,,,,A,2.0,130.96,4
+689,HM2MY3J8YZ,,Thao Uyen Nguyen,03.08.2023,05.08.2023,11.07.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,8.1,Airbnb,+44 7902 892430,,,,,,,,B,2.0,93.0,2
+690,HMDK5ADZD4,,Servane Dubois,30.07.2023,04.08.2023,26.01.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.3,Airbnb,+44 7391 733964,,,,,,,,D,5.0,327.4,4
+691,HMDM43WKFN,,Andrine Wibe,01.08.2023,03.08.2023,11.03.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,8.7,Airbnb,+972 58-444-7959,,,,,,,,A,2.0,130.96,4
+692,HMMRJPEE4Z,,Georgie Burns,31.07.2023,03.08.2023,17.02.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.3,Airbnb,,,,,,,,,C,3.0,167.52,2
+693,HM4E4THKMH,,Karoline Pedersen,29.07.2023,31.07.2023,10.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,8.1,Airbnb,+49 176 78191494,,,,,,,,C,2.0,111.68,2
+694,HM4WP4XTAQ,,Tobias Faust,25.07.2023,30.07.2023,28.11.2022,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.0,Airbnb,+33 6 72 51 81 97,,,,,,,,D,5.0,327.4,4
+695,HMEQJSSW5W,,Özge Ölmez,25.07.2023,28.07.2023,07.06.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,9.7,Airbnb,+61 421 135 563,,,,,,,,A,3.0,197.7,4
+696,HMYTMMR9HR,,Tram Hua,23.07.2023,25.07.2023,10.03.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,7.2,Airbnb,+49 179 7261589,,,,,,,,C,2.0,111.68,2
+697,HMTADTEBN4,,Ulrich Fiegenbaum,21.07.2023,23.07.2023,09.04.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,9.5,Airbnb,+90 530 906 39 56,,,,,,,,C,2.0,112.4,2
+698,HMTEEAEQAP,,Jasmin Gerwins,19.07.2023,22.07.2023,20.02.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio,9.0,Airbnb,+33 6 46 46 90 37,,,,,,,,B,3.0,138.6,2
+699,HMA9FBJWS4,,Carmen Escorial Iriarte,19.07.2023,21.07.2023,08.05.2023,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,7.6,Airbnb,+32 471 81 12 37,,,,,,,,C,2.0,111.68,2
+700,HMH8EJZ8P3,,Ed Austwick,16.07.2023,21.07.2023,08.01.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Patio and Sea View,8.8,Airbnb,+46 73 030 98 81,,,,,,,,D,5.0,327.4,4
+701,HMN42DNAYH,,Line Viktoria Fineide,14.07.2023,17.07.2023,28.06.2023,Confirmed,,2,2.0,0.0,,,,,,,One-Bedroom Apartment with Balcony and Sea View,7.7,Airbnb,,,,,,,,,A,3.0,212.25,4
+702,HM4CDA5HQZ,,Lenny,26.05.2023,28.05.2023,24.03.2023,Cancelled,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,,,,,,,,,C,2.0,86.62,2
+703,HMK9549AFB,,Aldeen Ahamed,24.09.2023,26.09.2023,,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+44 7466 628963,,,,,,,,C,2.0,100.76,2
+704,HMWP3DRS4Y,,Donald Houle,27.09.2023,29.09.2023,,Confirmed,,2,2.0,0.0,,,,,,,Studio with Patio and Sea View,0.0,Airbnb,+1 603-455-0828,,,,,,,,C,2.0,100.76,2

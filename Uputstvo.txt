@@ -1,0 +1,17 @@
+Zadatak:
+Isprojektovati i implementirati sistem za podršku odlučivanju izdavaocima smeštaja.
+Tri teme:
+1. Prva tema koju DW projekat treba da podrži je finansijsko poslovanje tj. praćenje priliva novca i 
+broja noćenja za svaki apartman u odnosu na način oglašavanja (Bookong, Airbnb ili aplikacija za izdavanje). 
+2. i 3. Dve teme po slobodnom izboru. Temu treba birati na osnovu onoga što je dato u izvorima podataka koji su na raspolaganju.
+4. Potrebno je napraviti i materijalizovane poglede. Na primer Average stay i izračunate vrednosti u procentima mogu da se čuvaju u MV.
+
+Uputstvo:
+Kod oglašivača Airbnb u cenu uračunata je i boravišna taksa koja iznosi 1 eur po osobi dnevno.
+Kod oglašivača Booking boravišna taksa plaća se posebno.
+Kod Airbnb provizija je već oduzeta od cene koštanja izdatog smeštaja, dok kod Bookinga stoji ukupna cifra koju gost plaća.
+Kod Airbnb gost uvek plaća online sa virtuelniom karticom.
+Kod Airbnb cena je u dolarima.
+U OLTP bazi podataka sajta za rezervaciju smeštaja cena treba obezbediti da cena može biti u više valuta (dinari, euri, dolari)
+
+
